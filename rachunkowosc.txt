@@ -1,0 +1,120 @@
+﻿Bożena Padurek 2.17 Zasady Rachunkowosci Finansowej
+Padurek rachunkowosc finansowa cz1 cz2 cz3
+biblioteka@rcez.pl
+1.5 środy piątki  do 18
+
+pasywa:
+kapitał własny
+1 kapitał podstawowy(zakladowy)-moje pienadze wspolnikow
+2 kapital zapasowy -wypracowany
+3 wynik finansowy-konczac rok wypracowana kwota dodatnia lub ujemna zysk+ strata-
+
+kapitał obcy:
+zobowiazania(i rezerwy)
+1 dłudoterminowe ( powyzej roku) np kredyt
+2 krotkoterminowe: wobec kontrachentow (bez terminu lub ponizej roku),wobec pracownikow
+-------------------------------------------------------------------------------------------------------------------------------------------
+majątek(aktywa): trwały obrotowy
+trwałe
+1 wartości niematerialne i prawne
+2 rzeczowe ,aktywa trwałe(środki trwałe)-maszyny urządzenia itp.
+3 inwestycje długoterminowe akcje: obligacje udziały w innych jednostkach pożyczki udzielone
+
+obrotowe
+1 zapasy :materiał surowiec materiał gotowy produkt, polprodukt
+2 należności krotkoterminowe:naleznosci od kontrachentow(klientow)
+3 inwestycje ktotkoterminowe(do 12 miesiecy):papiery wartosciowe,weksle,czeki rozrachunkowe,pozostałe środki wolne(w banku lub kasie)
+
+
+aktywa=pasywa : zasada rownowagi bilansowej
+
+Sumy pieniezne aktywow musza byc rowne sumie pasywow by wszystko było wporzadku inaczej czegoś zapomnieliśmy lub sa jakies przestepstwa.
+Pieniadze z kapitalu zmieniaja sie w aktywa:)
+
+
+Operacje gospodarcze
+
+1.operacje bilansowe
+I.  operacje aktywne: zmiana w ramach aktywow bez zmiany sumy bilansowej
+    np aktywa
+    zapasy 100 inwestycje -100
+
+II. operacje pasywne: zmiany składnikow w ramach pasywow bez zmiany sumy bilansowej
+    wynik finasowy -5000
+    kap zapasowy +5000
+III.operacje aktywno pasywne zwiekszajaca :zmiany skladnikow ww ramach aktowow i pasywow ze zmiana sumy bilansowej dodatnio
+IV. operacje aktywno pasywne zmnieszajaca  :zmiany skladnikow ww ramach aktowow i pasywow ze zmiana sumy bilansowej ujemnie
+    np.splata raty
+    inwestycje -300 zobowiaza +300
+
+2.operacje wynikowe
+
+Na wszystko w ksiegach musi byc dowod np pek(polecenie ksiegowania):resultat wykonania zadania
+
+Konto ksiegowe:do zapisu danych
+
+konto aktywow
+nazwa konta:towary
+symbol cyfrowy:330
+debet (wynien)                                          kredyt (ma)
+sp.x        
+        +                                                   -
+
+bilans otwarcia saldo poczatkowe                        bilans zamkniecia saldo koncowe
+
+
+konto pasywow
+debet (wynien)                                          kredyt (ma)
+                                                        sp.x
+        -                                                   +
+
+bilans zamkniecia saldo koncowe                         bilans otwarcia saldo poczatkowe
+
+konto aktywne
+winien                                          ma
+-----------------------------------------------------------------------------------------
+1000                                        /           600
+500                                         /
++                                           /           -
+                                            /
+------------------------------------------------------------------------------------------
+obrot debet   1500                          /           600
+-
+Zakladowy plan kont
+0-8
+0 srodki trwałe-rozne symbole
+1 srodki pieniezne
+2 naleznosci
+3 zapasy
+4,5 koszty
+6 wyroby gotowe
+7 inne przychody i koszty
+8 wszystkie kapitaly ,wynik finansowy
+
+kredyty bankowe
+dlugoterminowe , krotko termninowe
+sp.x(saldo poczatkow o dowolnej kwocie(nieznanej))
+zasada podwojnego zapisu- po roznych stronach sa kwoty rowne kwocie operacji
+                                aktywna
+                kasa                                                towary
+    1)        sp.x    /  100                                        1)
+            +    / -                                               100     /
+                                                                    +      /-
+                                        pasywna
+                kap zapasowy                                        wynik finansowy
+                    /5000                                                5000/sp.x
+                -    /    +                                            -    /+
+                                aktywno pasywna zwiekszajaca
+                towary                                              zobowiazania
+                300 /                                                         /300
+
+                +   /-                                                       -/+
+                                aktywno pasywna zmniejszajaca
+
+                r-k bierzacy                                    kredyt banku
+                sp.x/3000                                              3000/sp.
+                +/-
+zasada wzrastajacej plynnosci dla aktywow(uszeregowanie w bilansie)
+zasada wzrastajacej wymagalnosci dla aktywow.
+
+Nazwa salda od strony która wykazuje większe obroty.

@@ -1,0 +1,114 @@
+Biuro rachunkowe Bozena Padurek
+
+Zasady dokumentowania operacji gospodarczych cechy i elementy dowodu ksiegowego oraz ich klasyfikacja.
+W ksiegowosci ma miejsce szereg operacji gospodarczych ktore musza byc oparte odpowiednim dokumentem ksiegowym dokumentacje ksiegowa mozemy podzielic w nastepujacy sposob:
+Dokumentacje:
+-Dowod ksiegowy
+-ksiegi rachunkowe
+-inwentarz
+-dziennik
+-konta ksiegi glownej
+-konta ksiegi pomocniczej
+-zestawienie obrotow i sald
+(Ustawa o rachunkowości mowi o zasadach wypenienia dowodow)
+2.Sprawozdania finansowe
+-bilans
+-rachunek zyskow i strat
+-rachunek przyplywow pienieznych
+-zestawienie zmian w kapitale
+
+Dokument ksiegowy jest to sporządzona na piśmie szczegolowa informacja o zainstniałej operacji gospodarczej
+sporzadzona zgodnie z obowiazujacymi przepisami prawa zawierajaca niezbedna treść i będąca podstawą zapisu ewidencji księgowej.
+Podstawa prawna to ustawa o rachunkowości wrzesień 1994 art 21.Zgodnie z ta ustawa kazdy dokument ksiegowy powinien zawierac astepujace elementy:
+1.Określenie rodzaju dowodu i jego numeru identyfikacyjnego KP 1/09/17 KW 1/09/17
+2.Określenie stron(nazwa , adres podmiotow dokonujacych operacji gospodarczych)
+3.Tresc operacji opis jej wartosc okreslenie w jednostkach naturalnych
+4.Data dokonania operacji data sporządzenia dowodu gdy operacja byla pod inna datą.
+5.Podpis wystawcy dowodu oraz osoby ktorej wydano lub od ktorej przyjeto skladnik aktywow.
+6.Stwierdzenie sprawdzenia i zakwalifikowania dowodu do ujecia w ksiegach rachunkowych przez wskazanie
+miesaca oraz  sposobu ujecia dokumentu w ksiegach(dekretacja) oraz podpis osoby ktora za te wskazania odpowiada.
+Korygowanie błedow za pomoca jednej kreski i podpisu ora poprawki tylkow w wewnetrzych dokumetach
+.
+W zwiazku z powyzszym kazdy dokument  musi byc  zgodny z ustawa o rachunkowosci rzetelny czyli zgodny z rzeczywistym przebiegiem opearacji
+gospodarchych wolny o jakich kolwiek bledow( niedopuszczalne jest aby dokonowywac jakichkolwiek poprawek i skresleń uzywanie korektorow jest zabronione !).
+
+Rodzaje dowodow ksiegowych
+- dowody wewnetrzne dotycza operacji wewnatrz jednostki
+- zewnetrze - wlasne przekazywane sa w oryginale kontrachentowi(np kw faktura sprzedarzy)
+- zewnetrzne obce otrzymane od kontrachentow
+Podstawa do ksiegowania w ksiegach rachunkowych moga byc rowniez dowody zbiorcze sluzacze do dokonania lacznych zapisow
+kilku dowodow zrodlowcyh ktore musza byc wymienione w dowodzie zbiorczym (np.raport kasowy).
+- korygujace
+- zastepcze:wystawione do czasu otrzymania właściwego dokumentu zewnętrznego obcego
+-rozliczeniowy
+Ze względu na czas i kolejność  wykonania danej operacji możemy wyrożnić dokumenty pierwotne i wtorne.
+Kryteria klasyfikacji dokumentow ksiegowych
+
+kryterium klasyfikacji dokumenetu                          /     grupy dokumentow
+----------------------------------------------------------------------------------------------------------------------------------
+wedlug podstawy sporzadzania dokumentow                    /     pierwotne (źrodłowe )wystawione w zaistnialej operacji gospodarczej
+(kolejnosci ich wystapienia)                               /     ktore w pierwszej kolejnosci potwierdzaja zdarzenie gospodarczej np asygnata kp kw kasa przyjmie kasa wyplaci lub iminna karta wynagrodzeń
+                                                            /
+                                                            /
+wtorne zbiorcze wystawione                                  /    własne wystawione przez jednotki organizacyjne jednostki gospodarczej
+na podtawie dokumentow pierwotnych                          /   np faktury vat asygnaty kasowe listy płac polecenie księgowania np nota odsetkowa.
+w  zaleznosci o jednostek wystawiajacyh dokumentow          /
+                                                            /
+obce wystawiane przez naszych kontrachentow dostawcow       /
+czyli komorki organizacyjne innych jednostek np.faktura     /
+zakupu nota odsetkowa od dostawcy dokumenty bankowe         /
+                                                            /
+Ze wzgledu na przeznaczenie dokumenty wlasne dzielimy na    /
+a)zewnetrzne wystawione dla obcych jednostek                /
+np .faktura sprzedarzy, nota odsetkowa                      /
+b)wewnetrze na potrzeby wlasnej jednostki pek kp kw         /
+W zaleznosci od rodzaju przedmiotu ewidencji ksiegowej      /
+a) kasowe: kp kw report kasowy wniosek o zaliczke           /
+b) bankowe polecenie przelewu czeki                         /
+c) płacowe :lista płac                                      /
+d) magazynowe :rw rozchod wewnetrzny przesuniecia magazynowe/
+e) faktury zakupu i sprzedarzy                              /
+                                                            /
+
+Dokonaj określenia poniższych dokumentow ze wzgledu  na poznane powyzej kryteria
+1.raport kasowy :kasowe wewnetrzny własny wtorny
+2.lista plac :wlasny wtorny płacowe wewnetrzne
+3.rw: magazynowe wtorny
+4.wb bankowe wtorny obcy wlasny
+5.nota korygujaca wtorne zewnetrzny wlasny
+
+Zasady kontroli dowodow ksiegowych i poprawianie błędow  w dowodach ksiegowych.
+Dowody księgowe przed wprowadzniem do ksiąg rachunkowych muszą podlegać kontroli.
+Sposob i zakres tej kontroli oraz kto i kiedy powinien przeprowadzic tę kontrole muszą być okrelone  w instrukcji
+obiegu i kontroli deokumentow.Obieg dokumentow jest to przemieszczanie sie przez poszczegolne komorki organizacyjne przedsiebiorstwa korzystajace z danych zawartych w tych dokumentach.
+Obieg ten rozpoczyna się od momentu wpływu (tego dokumentu)do przedsiębiorstwa(dotyczy to dokumentow obcych) bądź z chwilą ich wystawienia(dotyczy to dokumentow wlasnych)
+a kończy się w  dziale księgowości a potem w archiwum.
+Instrukcja powinna zawierać:
+-Osobę komorke oraz to na jakiej podstawie dana osoba wystawia dokument i w ilu egzemplarzach.
+-Cel w ktorym dana osoba otrzymuje poszczegolne egemplarze okreslonego elementu.
+-Wykaz osob odwpowiedzialnych za kontrole dokumentow ksiegowych.
+-Zasady korygowania bledow oraz wzory adnotacji lub pieczeci umieszczonych na dowodach ksiegowych potwierdzajacych ta kontrole
+-okresy i sposob przechowywania określonych dokumentow.
+
+Każdy dokument ktory zostaje zaksiegowany musi byc poddany kontroli o tym mowi artykul 22 ustawy o rachunkowosci.
+
+Kontrola pod wzgledem merytorycznym ma na celu sprawdzenie czy wszystkie dane jakosciowe ilosciowe i wartosciowe sa zgodne z rzeczywistościa i zawartą umową.
+Za tą kontrole odpowiedzialny jest kierownik jednostki gospodarczej.
+
+Kontrola pod względem formalnym polega na sprawdzeniu czy dokument spelnia wszystkie wymogi okreslone przepisami prawa.
+Czy zawiera kompletne dane.
+Czy jest sporzadzony na odpowienim formularzu posiada numer.
+Czy posiada date i podpis kontroli merytorycznej.
+Za ta kontrole odpowiedzialny jest  głowny księgowy lub upowazniony do tego pracownik.
+Kontrola pod wzgledem rachunkowym ma na celu sprawdzenie czy nie popelniono bledow arytmetycznych.
+Za ta kontrole odpowiedzialny jest glowny ksiegowy lub odpoiedzialny za to pracownik.
+
+Poprawianie błedow w dowodach wewnetrznych. Błędy w dowodach wewnetrznych moga byc poprawione przez skreslenie blednej tresci lub kwoty z utrzymaniem czytelnosci okreslonych wyrazen lub liczb.
+Wpisaniem nad pod obok prawidłowej tresci naniesieniem parawki osoby upowaznionej do poprawienia bledow o ile odrebne przepisy nie stanowia inaczej.Nie wolno poprawiac pojedynczych cyfr lub liter.
+
+Poprawienie bledow w dowodach zewnetrzych zrodlowych obcych i wlasnych mozna korygowac jedynie przez wyslanie kontrachentowi
+odpowiedniego dokumentu zawierajacego sprostowanie wwraz z uzasadnieniem chyba ze przepisy stanowia inaczej.
+
+W przypdaku błędow w dowodach wlasnych zewnetrzych przed przekazanie kontrachentowi nalezy bledny dokument zniszczyc anulowac i wystawic kontrachentowi nowy poprawny.
+Po przekazaniu kontrachentowi blednego dokumentu nalezy  wyslac nowy dokument korekte.
+W przypdaku bledu w dokumentach obcych zewnetrznych nalezy je korygowac przez wyslanie kontrachentowi noty korygujacej. 

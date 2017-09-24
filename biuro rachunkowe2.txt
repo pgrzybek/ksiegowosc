@@ -1,0 +1,23 @@
+akredytywa-dostawca warunkuje wyslanie dostawy przez wysłanie pieniedzy na osobny rachunek
+środki pieniezne w drzodze- konto dla pieniedzy które jeszcze nie dotarły z banku do kasy
+rozrachunki publiczno prawne- podatki publiczno prawne pozostałe niz fiskus
+podatek vat- wartosc nie jest kosztem nie produktem
+rozlicznie zakupu- konto rozliczeniowe pośrednie przed towarami i mateiałami
+
+Wypełnianie dokumentów księgowych
+Sporządz raport kasowy za miesiąc sierpień wiedząc że firma rozpoczeła działalnośc od 1 sierpnia 2017 w tym miesiącu miały miejsce następujące operacje gospodarcze:
+3 sierpnia 	kp 1/08/17  wpłata należności od odbiorcy A kwota 3280 1
+10 sierpnia kp 2/08/17 wpłata gotówkiz banku do kasy 4800
+20 08       kp 3/08/17 rozliczenie zaliczki jana kowalskiego wpłata 45 
+5 08 		kp 1/08/17 wypłacono zaliczke janowi kowalskiemu na zakup materiału  850 
+12 08 		kw 2/08/17 zapłacono fakture za teleforn 326/8/17 455
+30 08		kw 3/08/17	wypłacono pracownikom premie według listy płac kwota 4000
+
+Wypełnij 1 kp kw na druczku nanieś wszystkie dowody księgowe pierwotne na raport kasowy i wypełnij go jako dokument wtórny.
+2 09 	kw 4/09/17 zapłata faktury za energie numer 625/9/17 1214 1
+10 09 	kw 5/09/17 zapłata za wode 1245/08/17 925  4
+4  09 kp  kp 4/09/17 wypłata od odbiorcy C za 3/08/17 3154 2
+7/09 kp 5/09/17 wyplata od odbiorcy a za 2/08/17 4156 3
+28 09 kw 6/09/17 przelanie oplat do banku  6000														5
+
+(-) domyślny podpis

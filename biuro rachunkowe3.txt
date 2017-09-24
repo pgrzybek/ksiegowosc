@@ -1,0 +1,87 @@
+
+VAT to nie  przychod i nie koszt tylko obciążenie podatkowe.
+
+Oddaje się róznice miedzy podatkiem naliczonym i należnym
+
+
+Przygotowanie dokumentów do ujecia w księgach rachunkowych , dekretowanie dokumentów
+Podatek VAT jest podoatkiem od wartości dodanej  płacony w kązdej fazie obrotu niezleżnie od tego ile podmiotów wcześniej uczestniczyło w transakcji.Dla podatnika podatku VAT( vatowca) VAT nie jest ani kosztem ani przychodem.
+
+przykład
+ 1  100 + 23=123			/23
+ 2	250 + 57,50= 307,50 	/34,50
+ 3  1000 + 230 = 1230		/172,50
+ 4 	5000 + 1150 =6150		/ 920,00g 
+
+ Przy podatku VAt wystepuje podatek należny pobierany przy sprzedarzy produktów towarów i usług i podatnik ma obiąwiązek odprowadzenia go do fiskusa.
+ Podatek naliczony płacony jest przy zakupie produktów towarów i usług podatnik ma prawo odliczyć go od podatku należnego.
+
+ Zobowiązanie podatkowe powstaje wtedy gdy podatek należny jest wyższy od naliczonego.
+ Podatek VAT jest księgowany na koncie bilnasowym ,rozrachunkowym, rozrachunki z tytułu VAT 225.
+
+ naliczony  225  należny
+ 			/
+ 			/	
+ 			/
+
+ netto  1000
+ VAT  	230
+ brutto 1230
+
+
+ 			Materiały								Kasa
+ 1)	1000										x			1230(1)
+
+
+ 			Rozrachunki z tytułu VAT
+ 1) 230
+
+
+Archiwizowanie dokumentów.
+Bierzące i Stałe.
+
+
+Ostatnim etapem związanym z dokumentacją księgową jest ich archiwizowanie czyli przechowywanie mozemy wyróznić tzw archiwizowanie bierzące to takie gdzie dokumenty są przechowywanew dziale księgowości do czasu zamknięcia danego roku obrotowego.Księgowy jest zobowiązany sporządzić najpóżniej 30 marca roku nastepnego po roku sprawozdawczym.
+
+archiwizowanie stałe dotyczy księgowania po zamkniecu roku obrotowego z archiwizowniem dokumentów zwiazane sa kategorie archiwalne
+-kat a to taka której archiwizone sa dokumenty trwale i przekazywane do archiwow panstwowych np. sprawozdania finansowe, bilans
+-kat b  to taka która obejmuje dokumenty czy dowody przekazywane przez pewien okres od 50 lat i mniej. 
+
+
+Analiza finansowa-analiza pionowa bilansu.
+Każda firma prowadząca działalność dąży do tego by uzyskać dodatni wynik finansowy czyli zysk. Efekt prowadzonej działalności jest ujęty w sprawozdaniach finansowych do których zaliczamy przede wszystkim bilans oraz rachunek zysków i stat.
+Na podstawie tych sprawozdań można przeprowadzić wnikliwą analizę stosując odpowiednie wskażniki celem wyciągniecia odpowiednich wniosków i dokonać oceny sytuacji.
+Analiza finansowa może dotyczyć sytuacji majątkowej firmy.Finansowania posiadanego majątku wyniku finansowego i związanego z nim szeregu wskaźników rentowności czy wreszcie przychodów ze sprzedarzy i kosztów poniesionych na uzyskanie przychodow i porownanie tych wielkości na przestrzeni lat.Możemy wyróżnić następujące rodzaje analizy:
+a)analiza pionowa i pozioma bilansu
+b)analiza wskaznikowa
+ad A) analiza pionowa i pozioma
+
+Do przedstawienia analizy pionowej bilansu służy wskaźnik struktury.Jest to miernik statystyczny.Wskaźnik ten informuje jaki jet udział poszczególnych części w całosci.Najcześćiej jest on podawany w procentach i oblicza się go jako iloraz badanej części docałości zjawiska.
+Można przedstawić go za pomocą wzoru:
+			
+		ni
+Ws  =	-- 	x100
+		N
+
+ni- liczobność podgrupy
+N-liczebnosc całego badanego znawiska
+W ramach analizy pionowej bilansu wyróżniamy :
+a) wskaznik struktury aktywów trwałych
+b) wskaźnik struktury aktywów obrotowych
+c) wskaźnik struktury aktywów
+d) wskaźnik struktury kapitałow własnych, obcych
+e) wskażnik zródeł finansowania
+
+Na podstawie bilansu ze strony 85 oblicz wskaznik struktury aktywow trwałych i wskaznik struktury aktywow obrotowcyh w roku bierzacym i ubieglym.
+
+
+Wsk  					akt trwale		355000									208000
+	aktywow trwalych =------------- = ---------- x100 = 82,37 %					------- x100= 54,8%
+						akt ogolem		431000									381800
+
+
+Wsk 						aktywa obrotowe 		76000						173800
+	aktywow obrotowcyh = ---------------------  = --------- x100 = 17,66 %		-------- x100= 45.52%
+							akt ogolem 				431000						381 800
+
+
