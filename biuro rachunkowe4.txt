@@ -30,3 +30,46 @@ Wskaźnik struktury
 rok ubiegly badany
 ------------------ x 100
 całość roku badanego
+
+
+Z dokonanych obliczeń w bilansie analatycznym wynika ze ogólna wartość aktywó i pasywów zwiększyła się w roku bierzącym w stosunku do roku ubiegłego o 5.13%. Aktywa trwałe w ogólnej sumei bilansowej stanowiące w roku ubiegłym 44% w roku bierzacym nieznacznie wzrozsły do 47.95%.Jak na jednostkę handlową aktywa trwałe kształtują się na wysokim poziomie.Wzrost ten jest spowodowany zwiększeniem inwestycji długoterminowych i rzeczowych aktywów trwałych.
+
+Wzrost aktywów w roku bierzącym w stosunku do roku ubiegłego jest spowodowany zwiększeniem aktywów trwałych o 14.56%.
+Na zmniejszenie się wartości aktywów obrotowych w sumie bilansowej miało wpływ zmniejszenie należności o 40.3.Niepokojącym jest fakt że zwiększyła się znacznie wartość zapasów towarowych o 23.3.Fakt ten może być niepojący bo może świadczyć o problemach ze sprzedarzą towarów.Pozytywanie należy ocenić zmniejszenie się należności pod warunkiem że nie jest to zmiana podyktowana zmniejszenie się odbiorców liczby odbiorców towarów tej firmy.
+Analiza pasywów wskazuje że decydujacy wpływ na ich zwiększenie miał wzrost kapitału włąsnego o 9.17% w porównaniu z rokiem poprzednim.Pozytywnie nalezy ocenic ze na ten wzrost wpłyneło zwiekszenie zysku o 55%.
+Kapitał własny w ogólnej sumie bilansowej zarówno w roku ubiegłymm jak i bierzącym wynosił  31.94 oznacza to że majątek w znacznej cześci finasowany jest kapitałem obcym którym w ogolnej sumie bilansowej wynosi około 70%. Swiadczy to o duzym uzaleznieniu jednostki od zewnetrznych zrodel finansowania co jest niepokojace.Zobowiązania długoterminowe nieznacznie sie zmniejszyły o 4.31% podczas gdy o 47.10 zwiekszyly sie zobowiazania krotkoterminowe moze to swiadczyc np o problemach z bierzacymi platnosciami wobec dostawcow towarow.
+
+
+wsk 
+
+aktywa trwale
+-------------  =struktura aktywow
+aktywa obrotowe
+
+kap wlasny
+-----------	= wskaznik zrodel finansowania
+kap obcy
+
+kap wlasny
+------------ = pokrycia aktywow trwalych kap wlasnym
+aktywa trwale
+
+kap obce
+--------		= pokrycia aktywow obrotowych  kap obcym	
+aktywa obrotowe
+
+kap 
+Strukture aktywów kapitałów włąsnych i obcych.
+
+
+wskaznik										rok bierzacy  						rok ubiegły
+struktura aktywow								(118/128100)*100=92.12%				103/131=78.57
+wskaznik zrodel finansowania					78600/167500*100=46.93 				7200/162100*100=44,42
+pokrycia aktywow trwałych kap wlasnym			78600/118000*100=66.61				72000/103000*100=69,90			
+pokrycia aktywow obrotowych kap obcym			167500/128100*100=130.76			162100/131100=123,65														
+Na podstawie powyższych obliczen można powiedziec ze wskaznik struktury aktywow w roku ubieglym wynosil 78.57% a w roku bierzacym wzrosł o 13.55%.Wzrost ten swiadczy o zwiekszeniu zaagazowania kap jednostki w aktywa twale.W przypadku jednostki hadlowej ktorej celem jest obrot towarami moze byc to zjawisko niepokojace. Nalezalo by sprawdzic z jakiego powodu wzrosla wartosc rzeczowych aktywow trwałych.
+Wskażnik zrodel finansowania z roku ubieglego wynoszaczy 44% w roku bierzacym nieznacznie wzrosl o 2.51 jest to zjawisko pozytywne oznacza to ze w niewielkim stopniu zwiekszył sie udział kapitału wąłsnego w finansowanie aktywow.Wskaznik pokrycia aktywow trwałych kapitałem własnym wynoscił 69.9% i swiadczył o finansowaniu kapitałem włąsnym i stanowił 70% całosci aktywow trwalych.W roku bierzacym wskaznik ten zwiekszyl sie o  3.29% t o znaczy ze aktywa trwale w wiekszym stopniu zaczely byc finansowane kapitalem obczym. Jest zjawisko negatywne.W roku ubiegłym wskaznik pokrycia aktywow obrotowych kapitalem obczym wynosil 123.65% w roku bierzaczym wzrosl do 130.76% jest to zjawisko negatywne swiadczace o zwiekszajacym finansowaniu aktywow  abrotowych kapitalem obcym.
+Na podstawie przedstawionej ananlizy pionowej i poziomej mozna powiedziec ze sytuacja w jednostce pogorszyla sie.
+
+																													
+
