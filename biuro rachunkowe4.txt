@@ -1,0 +1,32 @@
+Do analizy poziomej bilansu słuzy wskażnik dynamiki który mówi o rozwoju danego(badanego) zjawiska w czasie i okresla czy badane zjawisko ma tendencje wzostową czy spadkową w porównaniu z okresem podstawowym bazowym(najczęściej jest to 1 rok danych).W naszym przykładzie( książka strona 88) rok ubiegły. 
+
+Wskaźnik dynamiki
+
+akt trwałe
+roku bierzacego
+------------------x 100 >0 to wzrostowy < 0 to malejący
+akt trwale roku 
+ubiegłego
+
+Wskaźnik dynamiki może być liczony w następujący sposób:
+a) jako wskaźnik o podstawie stałej wtedy chcąc porównać pare okresów np lata od 2.11 do 2.16 bazą podstawą będą zawsze dane z 1 roku wszystkie pozostałe lata będą porównywane do bazy.
+b)wskaźnik o podstawie łańcuchowej polega na tym że dane z okresu bierzącego zawsze porównujemy do danych z roku ubiegłęgo i dlatego tworzy się tzw łańcuszek czyli obliczając dane z 2016 porównujemy je z danymi z roku 2015.
+
+W analizie poziomej bilansu oblicza się wskaźnik tempa zmian pokazuje on o ile procent zmieniłą się wielkość badanego zjawiska w stosunku do roku ubiegłęgo oblicza sie według wzoru
+
+Wskaźnik tempa
+rok bierzacy- rok ubiegly
+------------------------
+rok ubiegly
+
+
+wielkosc zjawiska w okresie badany- wielkosc zjawiska w okresie bazowym(podstawowym)
+------------------------------------------------------------------------------------x 100
+wielkosc zjawiska w okresie bazowym
+
+
+Wskaźnik struktury
+
+rok ubiegly badany
+------------------ x 100
+całość roku badanego
