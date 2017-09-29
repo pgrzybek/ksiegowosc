@@ -131,4 +131,6 @@ Wskaznik plynosci szybkiej z roku bierzacego wynoszacy 1.01 informuje że płynn
 W przydaku wskaznika płynnosci szybkiej płynne środki obrotowe gwarantowały spłate bierzacych zobowiazan tylko w roku bierzacym w roku ubiegłym wskaznik wynoszacy 0.84 był zbyt niski.Z tego wynika że wzrost wskaznika wskazuje na poprawe bierzacej zdonosci finansowej firmy do terminowego regulowania zobowiazan.
 Wskaznik płynnosci gotówkowej z roku bierzacego wynoszacy 0.20 informuje że natychmiastowa spłata zobowiazan bierzacych srodkami pienieznymi jest mozliwa w 20% natomiast w roku ubiegłym mozłiwosci te były wieksze i wynosiły 35%.
 Oceniajac wielkosc wskaznikow plynnosci gotowkowej nie trudno zauwazyc ze wskaznik 0.2 do roku bierzacego jest optymalny natomiast plynnosc gotowkowwa z roku ubieglego wynoszaca 0.35 miala zbyt duza wielkosc mimo iz zwieksza natychmiastowe mozliwosci spłaty bierzacych zobowiazan.Tylko srodki piniezne zaangazowane w procesach gospodarczych generuja zyski.
- 
+
+Dzwignia fiansowa gdy profity sa wyzsze od kosztow warto zaciagnac kredyt.
+
