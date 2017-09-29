@@ -71,5 +71,42 @@ Na podstawie powyższych obliczen można powiedziec ze wskaznik struktury aktywo
 Wskażnik zrodel finansowania z roku ubieglego wynoszaczy 44% w roku bierzacym nieznacznie wzrosl o 2.51 jest to zjawisko pozytywne oznacza to ze w niewielkim stopniu zwiekszył sie udział kapitału wąłsnego w finansowanie aktywow.Wskaznik pokrycia aktywow trwałych kapitałem własnym wynoscił 69.9% i swiadczył o finansowaniu kapitałem włąsnym i stanowił 70% całosci aktywow trwalych.W roku bierzacym wskaznik ten zwiekszyl sie o  3.29% t o znaczy ze aktywa trwale w wiekszym stopniu zaczely byc finansowane kapitalem obczym. Jest zjawisko negatywne.W roku ubiegłym wskaznik pokrycia aktywow obrotowych kapitalem obczym wynosil 123.65% w roku bierzaczym wzrosl do 130.76% jest to zjawisko negatywne swiadczace o zwiekszajacym finansowaniu aktywow  abrotowych kapitalem obcym.
 Na podstawie przedstawionej ananlizy pionowej i poziomej mozna powiedziec ze sytuacja w jednostce pogorszyla sie.
 
-																													
+Analiza wskaznikowa - wskazniki finansowe											
+Analiza ta oparta jest na wyliczeniu wskaznikow na podstawie sprawozdan finanosowych bilansu i ranku zyskow i strat.
+Na podstwie tej analizy mozna wskazac słabe i mocne strony firmy. Jednak aby dokonac trafnej oceny w wielu przypadkach nalezy analize tą pogłębić przeprowadzając bardziej wnikliwą analize badanego zjawiska.W ramach analizy fiansowej mozemy wyroznic 4 grupy wkaznikow.
+a) wskazniki płynnosci finansowej
+b) wskazniki zadłużenia 
+c) wskazniki sprawnosci działania
+d) wskazniki rentowanosci (zyskownosci)
 
+
+
+Wskazniki plynnosci pokazuja w jakim stopniu firma jest w stanie pokryc zobowiazania krótkoteminowe dysponujac aktywami obrotowymi.
+W ramach aktywow obrotowych mozemy wyroznic takie ktore w krotkim czasie moga stac sie srodkami pienieznymi lub nimi sa to srodki w kazsie i na rachunku bierzacym.W ramach tej grupy wskaznikow wyrozniamy :
+a) wskaznik bierzacej plynnosci
+
+aktywa obrotowe
+-----------------------------	
+zobowiazania krotkoterminowe
+
+jest to tzw wskaznik 3 stopnia i uwaza sie go za korzystny jezeli miesci sie w przedziale o 1.2 - 2.
+
+Wskaznik powyzej granicy swiadczy o tym ze firma bedzie miala problemy z wywiazywaniem sie z bierzacych zobowiazan dysponujac aktywami bierzacymi.Wskaznik powyzej gornej granicy tez uwazany jest za neiwlasciwy i swiadczy o malej operatywnosci osob zarzadzajacych firma i niepotrzebnym zamrazaniu aktywow obrotowych.
+
+b) wskaznik płynności szybkiej
+plynne srodki obrotowe
+---------------------
+zobowiazania krotkoterminowe
+
+Wskaznik ten nie uwzglednia zapasow poniewaz jest to ten skladnik majatku aktywow obrotowych który trudno zamienic na środki piniezne w krótkim czasie.
+Uważa się go za prawidlowy w granicach 1.
+
+c) wskaznik plynnosci gotowkowej 
+
+srodki pieniezne
+----------------
+zobowiazania bierzace
+
+Jest to wskaznik 1 stopnia i uwzglednia sie do jego obliczen tylko srodki pieniezne w  kasie i na rachunku bankowym bez naleznosci i zapasow.Uważa sie go z aprawidłowy od 0.1 do 0.2.Dlatego tak niski poniewaz wieksze korzysci przynosza srodki pieniezne zaangazowane w proces gospodarczy.
+
+ 
