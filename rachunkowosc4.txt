@@ -1,0 +1,128 @@
+Bilans otwarcia w przedsiębiorstwie handlowym na dzień 1 grudnia:
+Środki trwałe 50 000
+Rachunek bierzacy 20000
+Kapitał zakładowy  70000
+
+Operacje gospodarcze
+1. Wpływ na rachunek bierzący zaciągnietego kredytu bankowego 10000
+2. Zakup towarów u dostawcy zapłąta później 8000
+3. Zakupiono ze środków na rachunku bankowym akcje stanowiące trwała lokate kapitału 2000
+4. Zaciągnieto kredyt bankowy na uregulowanie zobowiazania wobec dostawcy 8000
+5. Sprzedarz towarów odbiorcy zapłata później 4000
+6. Odbiorca uregulował należność wekslem 4000
+7. Spłata raty kredytu 1500 
+8. Wykup weksla przez odbiorce wpływ środków na rachunek bierzacy 4000 
+
+
+		srodki trwale															kapital zakladowy												
+50000																									70000		
+
+
+
+
+		Rachunek bierzacy															kredyty bankowe	
+
+sp 20000					2000 3)											1500(7)							10000	1)	
+10000 1)					1500 (7)																		8000 4)
+4000 8)
+
+		
+		Towary														zobowiazania wobec dostawcow
+2)8000					4000 5)		
+																	4)8000						8000 2)
+
+
+		Inwestycje długoterminowe 
+3)2000		
+
+		
+		Naleznossci  od odbiorcow
+
+5) 4000					4000 (6)
+
+		Inne srodki pieniezne
+
+6) 4000					4000(8)
+
+
+Łączenie i dzielenie kont 
+Podział poziomy:
+
+			Towary (syntetyczne) ksiega glowna
+
+
+(analityczne)					sr trwałe  /
+
+											/
+(analityczne)					budynki    /  ksiega pomocnicza
+
+											/		
+(analityczne)					maszyny		/	
+(analityczne)					sr trasnport/
+
+	
+		Towary												Zob u dostawcow 
+10000					4000 2)													1000 1)		
+1) 1000					
+-------------------------------
+11000					4000
+
+		Towar A 											Kasa 
+5000												2) 4000
+			
+		Towar B
+
+3000
+
+		Towar C
+2000
+1) 1000						(zapis powtarzany w koncie syntetycznym)
+
+		Zob u dostawcow
+						1000 1)		
+
+
+Zestawienie obrotow i sald kont analitycznych
+
+Nazwa konta								Obroty							Salda						
+										debet  kredyt 					Debet kredyt
+Towar A 								5000	3000					2000	
+Towar B 								3000 	1000					2000
+Towar C									3000							3000
+				
+										11000	4000					7000
+
+
+
+
+Synteczne - brak analityki do składników
+
+**********************************************************************************************
+Podział pionowy:
+Dodatkowe konto korygujace
+		Śr trwałe
+12000
+12000				12000
+
+	umorzenie sr trwalego				(konto korygujace)
+						4000 1)
+---------------------------------						
+						4000
+sk 4000
+
+
+Konta wynikowe
+
+				
+				wynik finansowy
+				----------------	
+				Koszty/ przychody
+
+	Koszty							Przychody
+
+	+	/ -							-	/	+				
+
+								przeniesienie przychodów w wynik finanso
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+Łączeni kont
