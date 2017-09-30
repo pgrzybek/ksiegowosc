@@ -76,5 +76,44 @@ Udział kapitału własnego finansowaniu aktywow wynosi 45% w roku ubieglym a 15
 Wzrost wskaznika struktury pasywow o 110 % w stosunku do roku proprzeniego swiadczy o wysokim poziomie zmniejszenia zadluzenia jednostki a tym samym zwiekszenia udziału kapitału własnego w finanosowaniu aktywow.Jest to zjawisko pozytywne.
 
 
+Wskazniki  sprawnosci dzialania  pokazuja jak efektywnie jest wykorzystywany posiadany majatek i jaka jet efektywnosc posiadanego zapasu oraz zdolnosc do sciagania naleznosci od odbiorcow. W ramach tej grupy wskaznikow mozemy wyroznic.
+							
+							przychody ze sprzedarzy			
+a) wskaznik rotacji aktywow ----------------------
+							przecietny stan aktywow
 
 
+										stan aktywow pocz+stan aktywow koniec
+przecietny stan aktywow			=		---------------------------------------
+														2
+
+Przecietny stan aktywow uzykujemy przez dodanie stanu z poczatku roku do stanu na koniec roku i podzielenie przez 2.
+Nalezy pamietac o ciaglosci bilansowej tzn stan na koniec roku na dzie 31.12 jest rownoczesnie stanem rozpoczecia na 1.1
+
+Wskaznik ten informuje jaka wielkosc przychodow firma osiagnela z jednej jednostki zaanagazowanego majatku ogolu.
+Im wskaznik jest wyzszy tym wieksza jest efektywnosc wykorzystanego majatku ogolem w uzyskanym przychodzie. 
+
+b) wskaznik rotacji zapasow:
+moze byc wyrazony:
+			przecietny stan zapasowx365
+- dniach	----------------------
+				przychody ze sprzedazy
+
+
+			przychody ze sprzedarzy
+- razach	-----------------------
+			przecietny stan zapasow
+
+
+strona 105,106
+
+			2015 					2016
+
+			182000					212000		
+		-----------		=0.8	--------------------- =0.88
+		220000+ 235000/2			235000 + 248000
+
+ W roku 2015 wskaznik rotacji aktywow wynosil 0.8 co oznacza ze przedsiebiorstwo z 1 zlotowki zaanagazowanego majatku osiagnela przychod 80 groszy. W roku 2016 wskaznik wynosil 0.88 co oznacza ze przychod uzyskany ze zlotowki uzyskanego majatku sie zwiekszyl o 8 groszy.
+
+Ocena 
+Rotacja aktywow  2016 w stosunku do 2015 wzrosla co nalezy okreslic pozytywnie i oznacza to zwiekszenie efektywnosci wykorzytania zanagazowanycch aktywow
