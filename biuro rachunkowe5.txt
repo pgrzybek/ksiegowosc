@@ -1,0 +1,64 @@
+Wskazniki zadłuzenia:
+
+
+
+W jakim stopniu firma korzysta z kapitału obcego(zadłuzenia) mówią wskazniki zadłużenia wyrózniamy:
+
+a)wskaznik ogólnego zadłużenia
+
+zobowiazania ogolem
+-------------------- = wsk zdl
+aktywa ogolem
+
+Jest wskaznik ktory informuje w jakimm stopniu majatek firmy jest finanosowany kapilem obcym (z zewnatrz).
+Im wielkość wskaznika jest większa tym większe jest uzaleznienie od kapitału obcego.
+
+Wskaznik maksymalnie moze wynosić 1 co informowało by o tym że cały majątek pochodzi z zadłużenia.
+Nic nie jest włąsnością firmy.
+Różnica miedzy 1 wielkoscią wskaznika mowi o finansowaniu prze firme kapitałem własnym.
+Wyliczeniem tego wskaznika zainteresowane sa podmioty które udzielaja kredytu.
+Za prawidłowy uważa się wskaznik do 0.67.
+
+
+b) wskaznik udziału kapitału własnego w finansowaniu majatku firmy
+Im wskaznik jest wyzszy tym bardziej potwierdza ze majatek firmy jest  jej wlasnosci.
+
+kap wlasny
+-------------
+aktywa ogolem
+
+c) wskaznik zadłuzenia kapitału wlasnego
+
+zob ogolem
+-----------
+kap wlasny
+
+Wskaznik ten informuje  ile razy zobowiazania sa wieksze od kapitałow własnych.
+Zakłada sie że wskaznik nie powinien byc wyzszy niz 3.
+Im wskaznik jest wyzszy tym wieksze jest uzaleznienie firmy od kapitału obcego.
+
+Ćwiczenie 4						rok bierzacy 					rok ubiegly
+wskaznik ogolnego zadluzenia			0.48  						0.76
+	
+wsk udz kap wl						0.52							0.24
+	
+wsk zadl kap wl						0.91				3.17
+
+Wskaznik ogolnego zadluzenia wykazywal ze zadluzenia to 24% oznacza to ze udział zobowiazan w finanosowaniu majatku wynosi 76 %
+
+Ocena w roku bierzacym poziom udziału zobowiazan w fianansowaniu ajatku zmniejszyl sie w stosunku do roku ubiegłego  o 28%
+
+Jeżeli  przyjąć że dobry wskaznik nie powinien przekraczać 0.67 to zmniejszenie wskaznika w roku bierzącym do 0.48 nalezy ocenic pozytywnie i daje to gwarancje skutecznego ubiegania sie o kolejne zadluzenie.
+
+W roku bierzacym wskaznik wynosil 52% i oznaczał że w połowie majatek byl finansowany kap wlasnym.
+W roku ubiegłym wynosil 24% czyli majatek był finansowany kap wlasnym w 24%.
+W roku bierzacym w stosunku do roku ubieglego wskaznik udzialu kapitalu wlasnych finansowaniu majatku zwiekszyl sie o 28 punktow
+co oznacza ze sytuacja finansowa w firmie poprawila sie
+
+Zobowiazania w roku ubiegłym byly 3 krotnie wieksze niz aktywa.W roku bierzacym wskaznik ten wynosil 0.91 co oznacza ze zobowiazania byly prawie rowne wielkosci kapitalu wlasnego.
+Ocena 
+W roku ubiegłym wskaznik zadluzenia kapitalu wlasnego wynoszacy 3.17 przekroczyl optymalna wielkosc 3 czyli stanowil zbyt wysoki poziom.
+Spadek tego wskaznika w roku bierzacym do poziomu 0.9 swiadczy o duzym stopniu poprawy sytuacji finansowej firmy.
+
+
+W roku bierzacym wskaznik zadluzenia wynosil 0.5 a w roku ubiegłym wskaznik wynosił 0.6 zatem sytuacja zwiazana z długami poprawiła się o 10 %.
