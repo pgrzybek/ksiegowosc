@@ -101,7 +101,7 @@
 			"file": "biuro rachunkowe4.txt",
 			"settings":
 			{
-				"buffer_size": 5285,
+				"buffer_size": 9731,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "Do analizy poziomej bilansu słuzy wskażnik dynamik"
@@ -291,15 +291,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5285,
+						"buffer_size": 9731,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5252,
-								5252
+								9730,
+								9730
 							]
 						],
 						"settings":
@@ -308,7 +308,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 756.0,
+						"translation.y": 2001.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
