@@ -125,4 +125,98 @@ Konta wynikowe
 								przeniesienie przychodów w wynik finanso
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-Łączeni kont
+Łączenie kont
+
+			A 													P
+Dt			Należości	Ct							Dt		zobowiazania 	Ct
+
+sp x
++				/		-							-				/		+
+
+										
+										A-P	
+									Rozrachunki 
+								z odbiorcaami i dostawcami
+								---------------------
+								N sp x 		/ sp x z
+								N 	+		/	- N
+								Z 	-		/	+ Z
+								____________/________
+								Z sk 		/	Sk N
+
+					Analityczne konta 
+					Naleznosci 		zobowiazania
+
+
+Salda poczatkowe
+			A-P
+		Rozrachunki z odb i dostawcy 						Towary 						R-k bierzacy
+______________________________________________ 		_____________________		______________________
+ N sp	4000				6000 sp Z						1) 10000 /3000			3) 2000 /2000(4)
+N 2)    3000				10000 (1)Z 
+4)		2000				2000 (3)Z
+_________________________________________________
+		9000				18000
+Sk Z 	14000				5000 SKN 
+______________________________________________
+		23000				23000
+
+
+--------------------------------------------------------------------------------------------------
+			Odb A 					Odb B					Dostawca x					DOstawca y
+	sp 4000		/2000(3)	 2) 3000						/	6000 sp 	4)2000	/	10000(1)
+	_______________________________________			____________________________________________
+		4000 /   2000			3000       -					6000		   2000  	10000
+			 /	2000SK						3000sk		6000sk				sk 8000
+
+1. Zakupiono u dostawcy Y towary 10000
+2. Sprzedano odbiorcy B towary  3000
+3. Odbiorca A uregulował należność z rk bierzacego 2000sk
+4. Uregulowano zobowiązanie wobec dostawcy Y 2000
+
+
+
+Nazwa				Obroty 						Salda
+Konta 				dt 			ct
+					
+Odb A 				4000		2000			2000
+Odb B 				3000		-				3000
+DOst X 				- 			6000 			-			6000
+Dost Y 				2000 		10000			-			8000	
+					_________________________________________________
+					9000		18000 			5000		14000
+
+Saldo początkowe towary 4200 w tym jabłka 1200 gruszki 3000
+
+Operacje gospodarcze 
+1. Sprzedano odbiorcy  A gruszki 1600 zl
+2. Zakupiono u dostwcy X  śliwki 800 zl i jabłka 400 zł
+3.Zakupiono u dostawcy Y cytryny 1600 zl
+4. Sprzedano odbiorcy  B jabłka 1000 zl sliwki 300 zl i cytryny 400 zl
+
+			Towary 						rozl z odb i dostawcami
+sp 	4200			1600(1)			(1)	1600		1200(2)
+(2)	1200							(4)	1700			1600(3)	
+(3) 1600
+
+
+
+
+-------------------------------------------------------------------------
+			Jabłka 					Sliwki 							odb a 					dost x
+sp 1200			1000(4)			(2)	800		300(4)			(1)1600										1200(2)
+(2) 400
+
+
+			gruszki 				cytryny  						odb b 					dost y
+sp 3000				1600(1)	 (3)1600 		400(4)			(4)1700										1600(3)
+
+
+
+Nazwa						Obroty					Salda
+konta 					dt 		Ct 				dt 		ct
+
+odb A 
+Odb B
+Dost x
+Dost Y
