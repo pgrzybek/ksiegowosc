@@ -62,3 +62,19 @@ Spadek tego wskaznika w roku bierzacym do poziomu 0.9 swiadczy o duzym stopniu p
 
 
 W roku bierzacym wskaznik zadluzenia wynosil 0.5 a w roku ubiegłym wskaznik wynosił 0.6 zatem sytuacja zwiazana z długami poprawiła się o 10 %.
+
+
+							 -2(ubiegły)			-1(bierzacy)
+wsk struktury aktywow   300000/500000=	60%  	420000/60000=  70%
+
+wskaznik struktury 		250 0000/550000= 45%	620000/40000= 155%
+
+Interpretacja aktywa trwale stanowia 60% aktywow obrotowych w nastepnym roku 70%.
+Ocena wskaznik wzrol o 10% moze swiadczyc o stosowaniu psotepu technicznego.
+Udział kapitału własnego finansowaniu aktywow wynosi 45% w roku ubieglym a 155% w bierzacym.
+
+Wzrost wskaznika struktury pasywow o 110 % w stosunku do roku proprzeniego swiadczy o wysokim poziomie zmniejszenia zadluzenia jednostki a tym samym zwiekszenia udziału kapitału własnego w finanosowaniu aktywow.Jest to zjawisko pozytywne.
+
+
+
+
