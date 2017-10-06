@@ -76,5 +76,21 @@ Ocena:
 Rotacja zobowiazan w dniach w 2016 w porownianiu 2015 zmnniejszyla sie o okolo 4 dni to oznacza ze firma spłaca o 4 dni szybciej swoje zobowiazania.
 
 Cykl rotacji srodkow pienieznych w dniach.
-Oblicza sie jako sume rotcaji w dniach i naleznosci w dniach i odejmuje wskaznik rotacji zobowiazan krotkoterminowych.
+Oblicza sie jako sume rotacji w dniach i naleznosci w dniach i odejmuje wskaznik rotacji zobowiazan krotkoterminowych.
 Wskaznik ten informuje o ilosci dni jaka upływa od czasu spłąty zobowiazan do momentu otrzymania naleznosci im ten okres jest krotszy tym mniej jestesmy od finansowania z zewnatrz.
+
+
+wskaznik rotacji zapasow przyklad
+2015																						2016
+
+(6400+10800)/2*365																		(10800+11600/2)*365
+----------------	= 17,25																-------------------------=19,28
+182000																						212000
+
+Cykl rotacji srodkow pienieznych
+
+17,25+21.66 - 30,58	=8,33																19,28+17,30-26,69=9.89
+
+W 2015 cykl rotacji srodkow pienieznych wynosil 8 dni co oznacza ze od momentu splaty zoowiazaan do momentu spłaty naleznosci upływa srednio 8 dni. Cykl rotacji srodkow pienieznych wynosi 9.89 okolo 10 dni.
+
+Cykl rotacji srodkow pienieznych srodkow pienieznych 2015 do 2016 wydluzyl sie o 2 dni.Co oznacza ze w jednostce gospodarczej  zwiekszyla sie liczba dni od moemntu splaty zobowiazan do moemntu wplywu pieniedzy co swiadczy o pogorsezniu sie sprawnosci finansowej jednostki i koniecznosci korzystania z finansowania zewnetrznego.
