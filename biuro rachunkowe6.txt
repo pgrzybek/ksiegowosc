@@ -2,3 +2,79 @@
 Wskaznik rotacji naleznosci
 
 w dniach i razach
+
+przedstawia sie wzrozem
+
+w dniach
+
+przecietny stan naleznoscix365
+-----------------------------
+	przychody
+
+Wskaznik ten okresla ile srednio dni firma czeka na splyw naleznosci.Im wskaznik jest nizszy krotszy tym mniej oczekiwania na splyw naleznosci i w mniejszym stopniu angazowanie swoich wlaznych srodkow.
+
+Wskaznik rotacji naleznosci w razach
+
+przychody ze sprzedarzy
+------------------------
+przecietny stan naleznosci
+
+Okresla ile razy wdanym okresie w ciagu roku ma miejsce obrot naleznosciami.Im wyższy tym lepiej.
+
+Przykład
+
+strona 106 przyklad 3
+
+2015																	2016
+
+
+((9300+12300):2)*365											((12300+7800):2)*365
+----------------------= 21.66									---------------------=17.3			
+		182000															212000																	
+
+182000															2120000
+--------------=16.85										--------------------=21,09
+(9300+12300):2													(12300+7800):2
+
+
+Interpretacja mowisz to co widzisz.
+W roku 2015 wskaznik rotacji naleznosci w dniach wynosil 21.66 co oznacza ze w przedsiebiorstwie sredni cykl naleznosci wynosil okolo 22 dni.W roku 2016 wskaznik rotacji zapasow naleznosci wynosi 17.3 co oznacza ze w przedsiebiorstwie sredni cykl inkasa wynosi okolo 17 dni.
+
+Rotacja naleznosci w dniach 2016 w porownaniu 2015 zmalała o około 4 dni.Czyli skrócił sie okresl należności co jest zjaiwskiem pozytywnym.
+
+Wskaznik rotacji w razach 2015 wynosił 16.85 razy co oznacza około 17 cykli inkasa naleznosci.W 2016 natomiast wskaznik rtacji naleznosci w razach wynosil 2109 co oznacza okolo 21 cykli naleznosci.
+
+Ocena 
+
+2016
+Wskaznik obrotowosci naleznosci w razach wzrosł o około 4 razy. Swiadczy o zwiekszonej ilosci cykli incasa naleznosci.Oznacza to ze w 2016 roku zwiekszyla sie skutecznosc windykacji naleznosci.Nalezy to ocenic pozytywnie.
+
+Rotacji zobowiazan krotkoterminowych w dniach:
+
+
+przecietny stan zobowiazanx365
+-----------------------------
+przychody ze sprzedazy
+
+
+Wskaznik ten informuje jaki jest sredni okres regulowania zobowiazan krotkoterminowych z osiagneitego przychodu ze sprzedarzy.
+
+
+Przykład
+
+strona 106
+
+2015																							2016
+
+(14500+16000)/2	*365																			(16000+15000)/2 *365
+-----------------		=30.8																	------------------= 26.69
+182000																								212000
+
+Wskaznik rotacji zobowiazan w korku 2015 30,85 co oznacza ze zobowiazanie wobec kontrachentow byly regulowane srednio co 30 dni
+ W 2016 wskaznik rotacji zobowiazan krotkoterminowych w dniach wynosil 26.69 co oznacza ze zobowiazania wobec kontrachentow regulowane byly srednio co 27 dni.
+Ocena:
+Rotacja zobowiazan w dniach w 2016 w porownianiu 2015 zmnniejszyla sie o okolo 4 dni to oznacza ze firma spłaca o 4 dni szybciej swoje zobowiazania.
+
+Cykl rotacji srodkow pienieznych w dniach.
+Oblicza sie jako sume rotcaji w dniach i naleznosci w dniach i odejmuje wskaznik rotacji zobowiazan krotkoterminowych.
+Wskaznik ten informuje o ilosci dni jaka upływa od czasu spłąty zobowiazan do momentu otrzymania naleznosci im ten okres jest krotszy tym mniej jestesmy od finansowania z zewnatrz.
