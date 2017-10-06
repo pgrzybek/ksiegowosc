@@ -116,4 +116,4 @@ strona 105,106
  W roku 2015 wskaznik rotacji aktywow wynosil 0.8 co oznacza ze przedsiebiorstwo z 1 zlotowki zaanagazowanego majatku osiagnela przychod 80 groszy. W roku 2016 wskaznik wynosil 0.88 co oznacza ze przychod uzyskany ze zlotowki uzyskanego majatku sie zwiekszyl o 8 groszy.
 
 Ocena 
-Rotacja aktywow  2016 w stosunku do 2015 wzrosla co nalezy okreslic pozytywnie i oznacza to zwiekszenie efektywnosci wykorzytania zanagazowanycch aktywow
+Rotacja aktywow  2016 w stosunku do 2015 wzrosla co nalezy okreslic pozytywnie i oznacza to zwiekszenie efektywnosci wykorzytania zanagazowanycch aktywow.
