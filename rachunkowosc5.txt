@@ -1,0 +1,103 @@
+
+		Aktywa																pasywa
+bo/sp		/																			sp/bo
++			/   	-												-			/			+
+					sk/bz											sk/bz		
+
+
+		koszty																przychody
+
+	1)500		/	500													(II)1000/		1000
+
+	+			-															-	/		+
+																			----------------
+																			1000	1000					
+																			-			-
+											
+											wynik finanoswy
+											1)500  /	1000(II)
+
+
+Koszt powstaje po winien.
+Nie moze byc salda na konta wynikowych z jednym wyjatkiem.
+Pełny rachunek kosztów - pełna ewidencja 
+
+Koszty rejestruje sie w dwu układach 4 zespół w planie kont
+
+* Amortyzacja- koszt zuzycia srodkow trwałych i niematerialnych i prawnych
+1) PK(polecenie ksiegowania) miesieczna stawka amortyzacji srodkow trwałych	800 zl
+
+
+
+
+
+		Sr trwale						umozenie sr trwalych									*Amortyzacja	
+sp .12000										/				800	(1)						(1)800	/
+
+
+
+
+Wartosc bilansowa srodkow trwałych( ksiegowa, netto,bierzaca)
+										12000-800=11200
+po umozeniu srodkow trwałych
+
+* zuzycie materiałów i energii
+
+2)RW(rozchod wewnetrzny)- wydanie do zuzycia materiałow w produkcji	10000
+
+				Materiały							zuzycie materiałow
+		sp.x			10000(2)			(2)	10000
+
+
+*usługi obce
+3)Fa(faktura) za usługi remontowe 	a) netto		100
+									b) vat	23		23
+									c)brutto		123
+
+
+			Rozrachunki								Rozrachunki								Uslugi obce
+			z dostawcami							z tytułu p. VAT
+					/	123	(3c)				(3b)	23	/						(3a)100		/	
+
+												Naliczony	/	Nalezny
+													Zakup 	/	sprzedaż	
+
+
+Przy zakupie Naliczony przy sprzedarzy nalezny.
+
+
+* Wynagrodzenia
+
+4)Lp(lista płac)- wynagrodzenie brutto			5000
+
+
+
+			Rozrachunki z pracownikami													*Wynagrodzenia
+						/			5000(4)									(4)	5000		
+
+
+*Ubezpieczenia społeczne i inne świadczenia
+		*ubezpieczenia społeczne i inne swiadczenia
+
+5)Pk -deklaracaj ubezpiecznia społęcznego
+
+					Rozrachunki z ZUS									Ubezpieczenia spoleczne
+							/ 1000	(5)									(5)	1000	/
+
+
+	*Podatki i opłaty
+6)wb(wyciag bankowy)- zapłacono podatek od nieruchomosci 	140
+
+											
+			Rk bierzacy								Podatki i opłaty
+		sp 		/		140				(6)		140
+
+
+*Pozostałe koszty rodzajowe(np parking ubezpieczenia majatkowe)
+7)Rachunek kosztów podrózy (30 złoty dieta) 210
+
+			Pozostałe rozrachunki														pozostałe koszty rodzajowe 
+									210(7)										(7)210						
+
+
+
