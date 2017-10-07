@@ -1,0 +1,119 @@
+Wskazniki rentownosci ,zyskownosci.
+
+Przy obliczaniu wskazźników zyskowności (rentowności) niezbędnym elementem jest zysk netto.Zyssk netto jest to ostateczny resultat działąlności przedsiębiorstwa jesto kwoata wolna od jakichkolwiek obciążeń.Ogólnie zyk ma miejsce wtedy kiedy przychody sa wyższe od ponoszonych kosztów kiedy jest odwrotnie firma ponosi stratę i wtedy nie ma zasadności obliczania wskaźnikó rentowności.
+Biorąc pod uwagę wszystkie zaistniałę operacje które mają wpyw na wuynik finansowy i zakładające że przychody są wyższe od kosztów otrzymujemy tzw wynik finanosowy brutto.OD któego należy odprowadzić podatek.W zależności od tego z jką formą organizayjno prawną mamy doczynienia odprowadzamy:
+-podatek dochodowy od osób fizycznych(jeżeli dotyczy to spółek osobowych)tzw PIT
+-podatek dochodowy od osób prawnych (jeżeli dotyczy to spółek kapitałowych osób prawny CIT)
+
+Do wskaźników zyskowności możemy zaliczyć:
+											zysk ze sprzedarzy						
+wskaźnik rentowności sprzedarzy ROS=  ------------------------------
+											przychody ze sprzedarzy
+
+Wskaznik ten informuje ile zysku ze sprzedarzy osiaga firmaz jednej jednostki przychodu ze sprzedarzy.
+Wzkaznik tym korzystniejszy im wyższy.
+Wzkaznik ten jednka nie przedstawia realnej sytuacji firmy poniewaz nie uwzglednia wszystkich operacji które w firmie wystapiły i mogą miec znaczący wpływ na ostateczny zysk netto.
+
+												zysk netto	
+Wskaznik rentownosci netto ze sprzedarzy	=	----------------	
+												przychod ogółem
+
+
+Wskaznik ten informuje jaki zyskk netto firma osiagneła z 1 złotówki przychodów.
+
+Strona 96
+
+przykład 2
+
+ćwiczenie 2 strona 99
+						2016											2015	
+																			
+						30000											28000
+wsk rent sprzedarzy= ------------ = 0,077  ~ 0,8						------------- =0.09
+						390000											3263000
+
+
+						313600											29340
+						-------											--------- 	=0.09
+wsk rent netto			392000											326300
+
+
+Wskaznik rentownosci sprzedarzy w roku 2016 wynosil 0.08 co oznacza ze przedsiebiorstwo osiagneło z 1 jednej jednostki przychodu ze sprzedarzy 8 groszy zysku ze sprzedarzy.
+W roku 2015 wskanik rentownosci wynosił 0.09 co oznaczało że przedsiebiorstow z jednej jednostki sprzedarzy towarow osiagneło 9 groszy zysku ze sprzedarzy.
+
+Wskaznik rentownosci ze sprzedarzy zmniejszył sie o 0.01 grosz co oznacza ze firma osiagneła mniejszy zysk ze sprzedarzy z jednej jednostki przychodu ze sprzedarzy o 1 grosz co jest tentencja niekorzystna. 
+Wskaznik rentownosci netto w roku 2015 wynosił 0.09 co oznacza ze z jednej jednostki przychodu ze sprzedarzy ogołem firma osiagneła 9 groszy zysku netto.W 2016 natomiast z jednej jednostki(złotówki) przychodu ze sprzedarzy ogółem osiagneła 9 groszy zysku netto.
+Wskażnik rentowności netto zmniejszył się o 1 grosz co należy ocenić jako zjawisko niekorzystne.
+
+										zysk netto		
+															29340						31360		
+wskaznik rentownosci aktywow (roa)=		------------ =		-------- = 0.14				----- 0.16
+ 										aktywa ogółem		205300						19400	
+
+
+											zysk netto				29340				31360
+wkaznik rentownosci aktywow obrotowych =	----------			= ---------=0.26		----	= 0.29
+											aktywa  obrotowe		111000				109400
+
+											zysk netto				29340				31360
+wskaznik rentownosci aktywow trwałych	=	-------------- 		=	------ = 0.31		----- = 0.37		
+											aktywa trwale			94300				84600	
+
+
+Wskazniki te pokazuja jaki zysk netto firma osiagnela z 1 zlotowki zaangazowania odpowiednio aktywow ogolem, aktywow obrotowych, aktywow trwałych, wskzniki sa tym korzystniejsze im sa wyzsze i swiadcza o wiekszym wykorzystaniu efektywnosci majatku.
+Wskaznik rentownosci aktywow ogołem w roku 2015 wynosil 0,14 co oznaczało ze z 1 zlotowki zanagazowanego majatku ogołem firma osaignela 13 groszy zysku netto. Natomiast 2016 z jednej złotowki zysku ogółem oasiagnela 16 groszy zysku netto. Wskznik rentownosci zyskow obrotowych w roku 2015 wynosil 0,26 co oznacza ze przedsiebiorstwo osiagnello 26 groszy z jednej zlotowki aktywow obrotowych. 2016 z jednej zlotowki aktywow obrotowych uzyskala 29 groszy zysku netto. Wskaznik   rentownosci aktywow trwalych w 2016 29 groszy zysku netto z 1 złotow zanagazowanych aktywow trwałych. W roku 2016 uzyskała firma 36 groszy zysku netto z jednej złotów aktywow trwałych.  
+
+Ocena
+
+Wszystkie obliczone wskazniki rentownosci mają tendencje wzrostowa tzn wskaznik rentownosci roa wzroszl o 2 grosze.
+Wskanik rentownosci aktywow obrotowych o 3 grosze.
+Wskaznik rentownosci aktywow trwalych o 6 groszy.
+Ponadto nalezy zauwazy ze jest to firma handlowa i wartosc aktywow w roku bierzacym zmniejszyla sie w porownaniu do roku poprzedniego co w efekcie spowodowało zjawisko bardzo korzystne zwiekszenie zysku netto w roku 2016 w porownaniu z 2015.Co świadczy o efektywnym wykorzystaniu posiadanego majątku.
+
+Wkazniki rentownosci netto kapitału
+
+											zysk netto
+wskaznik rentownosci kapitału całkowitego=	------------------
+											kapitał całkowity
+
+												zysk netto 
+wskaznik rentownosci netto kapitalu wlasnego =  ------------
+												kapitał wlasny
+
+
+Wskazniki te informuja jaki zysk netto firma osiagneła z jednej złotówki zaangazowania odpowiednio kapitału całkowitego(kapitału włąsnego + zobowiazan) czy z jednej złotowki zaangazowanego kapitału własnego.
+Wskazniki tym sa korzystniejsze im wyzsze.
+
+											2015											2016			
+
+											29340											31360	
+											---------=0.14										------- 0.16
+											205000											194000
+
+
+											29340											31360
+											--------- 0.21									-------
+											142000											136800
+
+Wskaznik rentownosci netto kapitału całkowitego w roku 2015 wynosi 0,14 co oznacza z jednej złotówki zkapitału całkowitego firma osiągneła 14 groszy zysku netto.Natomiast 2016 z 1 złotóki kapitału całkowitego osiagnełą 16 groszy zysku netto.Natomiast wkaznik rentownosci kapitału włąsnego w roku 2015 wynoszacy 0.21 oznaczł ze firma osiagnełą 21 groszy zysku netto z jednej złotówki zangazowanego kapitąłu własnego.W 2016 z jednej złotówki kapitału włąsnego firma osiagnęła 23 grosze.
+Zarowno wkzanik rentownosci kapitału wlasnego jk i całkowitego wzrosl o 2 grosze w roku 2016 w porownaniu do 2015 co jest zjawiskiem bardzo pozytywnym ponadto nalezy zauwazyc ze wskaznik renotwnosci kapitału własnego wynoszacy 0.21 czy 0.23 jest bardzo wysoki i oznacza dobra decyzje zainwestowana kapitału własnego porównując np. sytuacja zainwestowania tych srodków w lokate terminowa banku gdzie wskznik wyniosl by 0.04.
+
+		ubiegly											bierzacy		
+
+		2916										5734
+ros= 	----	=0,18								----	=0.23
+		16200										25200	
+
+Osiagnieto 18 groszy ze sprzedarzy z zlotowki w roku ubieglym.W roku  bierzaczym osiagnieto 0.23 co oznacza 23 groszy zyskuz 1 złotówki.
+Ocena
+Wskaznik rentownosci ze sprzedarzy obizył sie o 5 groszy co okazało sie zjawiskiem niekorzystnym.
+W roku ubiegłym wskaznik ten był wyzszy o 3 grosze od zakładanej opłącalności sprzedarzy natomiast w roku bierzącym wskaznik jest nizszy o grosze od zakładanej opłacalnosci co jest zjawiskiem niekorzystnym.
+
+Oblicznie wskzaników rotacji naleznosci w dniach:
+
+			przecietny stan naleznosci* 365 dni  		(2490+2280)/2* 365					(2280+3650)/2*365
+			------------------------------------- =		-------- --------	=13.71			-----------			
+			przychody ze sprzedarzy 					63500									55575
+
+
+Firma srednio czeka na spływ naleznosci odpowiednio 13.71 dni i 19 .47  dni .Okres oczekiwania wydłużył sie co jest zjawiskiem niekorzystnym.Cykl incasa naleznosci miesci się w granicy zachowania zdolnosci finansowania bierzacej działalnosci z wlasnych srodkow natomiast w 2016 wydluzyl sie do 19 i był dluższy o 5 od roku poprzedniego a o 4 dni od roku założonego terminu płątności.
