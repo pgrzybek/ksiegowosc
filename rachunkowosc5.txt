@@ -79,13 +79,13 @@ Przy zakupie Naliczony przy sprzedarzy nalezny.
 *Ubezpieczenia społeczne i inne świadczenia
 		*ubezpieczenia społeczne i inne swiadczenia
 
-5)Pk -deklaracaj ubezpiecznia społęcznego
+5)Pk -deklaracaj ubezpiecznia społecznego(13.7%)
 
 					Rozrachunki z ZUS									Ubezpieczenia spoleczne
 							/ 1000	(5)									(5)	1000	/
 
 
-	*Podatki i opłaty
+	*Podatki i opłaty()
 6)wb(wyciag bankowy)- zapłacono podatek od nieruchomosci 	140
 
 											
@@ -101,3 +101,104 @@ Przy zakupie Naliczony przy sprzedarzy nalezny.
 
 
 
+
+Koszty wg rodzaju "4"
+Koszty wg miejsc powstawania "5"
+
+"4"						Materiały 								Zuzycie mat
+					sp.x	/ 10000	(1)					(1)	10000 		/
+
+
+
+
+"5"													
+				Rozliczenie kosztów											Koszty działalnosci podst
+							/	10000				(1a)					10000			/
+																				(produkcja w toku )
+
+Koszty działalnosci podst jest wyjątkiem nie zawsze sie zeruje.Zawiera produkcje w toku.
+
+Materialy i koszty dzialalnosci podstawowej jest na 5 gdy 4 nie ma  .
+Zuzycie materialow i koszty podstawowe  jest na 4 gdy 5 nie ma.
+
+
+Przychody :
+
+Handel
+1) zakup towarow
+					a)netto		1000
+					b)vat 23	230	
+					c)brutto	1230	
+
+2) pz-przyjecie towarow w cenie zakupu	1000
+	
+				Rozrachunki z dostawcami									Towary
+							/ 1230 (1c)							(2) 1000	/		1000(4)
+
+	
+				Rozrachunki z tyt p vat 								Rozliczenie Zakupu(AP)	
+			(1b)	230			/	276(3b)							(1a)1000		/ 1000(2)		
+
+			
+									
+
+3)(Fs) Faktura sprzedarzy towarow
+	Marza 20%
+	a) netto 1200
+	b)Vat 276
+	c)brutto 1476
+
+4)Wz(wydanie zewnetrzne) wydanie towarow odbiorcy wedlug ceny zakupu 1000
+
+				Przychody ze sprzedarzy towarow
+									/				1200(3a)
+							-		/		+
+
+					Rozliczenie z odbiorcami
+			3c)		1476		/								
+
+
+	
+
+			Wartosc sprzedanych towarow według cen zakupów (kontu zespolu 7 wynikowe )
+		4)1000							/	1000(II)
+
+
+								860
+					(II)	1000		/		1200
+
+					1476
+				-	1230
+				----------
+					 246
+					- 46 us (vat odjety stronami )
+					------
+					 200	
+
+				
+				Produkcja
+
+		1)Fa -sprzedarz wyrobow gotowych
+					a)netto			1000
+					b)VAT 23%		230	
+					c)brutto		1230
+
+		2) wydanie sprzedanych wyrobow gotowych po koszcie wytworzenia 800
+
+					Wytw				Koszt wytworzenia
+										wyrobow gotowych
+			sp		/	800(2)		(2)	800		/800					Przychody ze sprzedarzy
+																		wyrobow gotowych
+
+																					/ 1000 (1a)		
+
+
+				Rozrachunki z odb										Rozrachunki z tyt p VAT
+
+				1c)1230	 /																/	230 (1b)
+
+
+												860
+											800		/ 1000		
+
+											
