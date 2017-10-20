@@ -1,0 +1,99 @@
+Salda początkowe
+	Środki trwałe(A)			Rozrachunki z dos(A-P)					Rozr zakupu									Kap podstawowy(P)		 
+Sp 20000	/							/	12300(1c)		(1a)10000		/	10000	(2)									/30000 Sp
+
+
+A		R-k bierżacy					Rrozrachunki z tyt Vat 								towary 						Rozrach z odbior.
+Sp 10000	/	500(4)			(1b)	2300	/	1840(6b)						(2)	10000	/5500(7)	(6c)	9840	/
+
+
+(K)		Umorzenie śr trwałych			Amortyzacja 							Przychod ze sprzedarz(wynikowe) 		Wart sprzed tow.
+				/ 330(3)			(3)	330	/ 330(10c)											/ 800 (6a)		(7)		5500	/ 5500(10b)
+
+		
+				Kasa					Pozostale rozrachunki  z prac		*	Pozostałe koszty prac					Wynik finansowy
+		(4)	500		/	200(5)		5) 200	/		180(8)					(8)	180		/	180(10c)				(10b)5500	/8000(10a)
+		(9)	20								/	20(9)																(10c)510	/
+																													-----------------------	
+																														6010	/ 8000
+																													SK	1990
+																										zysk brutto				
+																													K 		/ P
+			Pełny rachunek
+			------------------------------------
+			Rozliczenie Kosztow			Koszty 	handlowe
+		(10d)550	/	 330 (3a)	330	  	/ 510 (10d)
+					/	 180 (8a)	180		/	
+
+
+1.Faktura - zakup towarów
+a)wart netto 10000
+b)Vat 23% 
+c)brutto 12300
+
+2.PZ przyjeto zakupione towary do magazynu 10000
+3.PK amortyzacja środków trwałych za bierzący miesiac 	330 zl
+4.Podjeto z banku do kasy 		500 zl
+5.KW wypłacono pracownikowi zaliczkę na podróż służbową		200 zl
+6. Faktura sprzedarz towarów 
+a) wartość netto 8000
+b) VAT 23%		1840	
+c) wartość brutto 9840
+
+7.	WZ wydano sprzedane towary odbiorcy wartość w cenie zakupu 5500
+8.	Rachunek kosztów podróży służbowwej 180 zl
+9.	Rozlicznie zaliczki
+10.	PK wynik finansowy
+
+(Nastepny etap to rachunkowość zarządcza do wykorzystania tych liczb powyżej)
+(koniec przykładu)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Salda początkowe
+	Środki trwałe(A)			Rozrachunki z dos(A-P)					Rozr zakupu								Kap podstawowy(P)		 
+Sp 20000	/							/	12300(1c)			(1a)	10000		/10000(2)										/30000 Sp
+
+
+A		R-k bierżacy					Rrozrachunki z tyt Vat 						Materiały				*Zuzycie materiałow
+Sp 10000	/						(1b)2300	/								(2)10000/ 8000(3)		(3)	8000/
+
+		Rozliczenie kosztów				Koszty działalności podstawej			Rozrachunki z tytułu wynagrodzeń		*Wynagrodzenia		
+				/ 8000	(3a)		(3a)	8000	/	10000									/	2000	(4)				2000	/	
+				/2000				(4a)	2000	/
+				/230				(5a)	230		/
+				/400				(6a)	400		/
+
+	Wyroby gotowe																				
+(7)	10000	/5500(9)																Umorzenie śr trwałych			*Amortyzacja
+																							/ 230	(5)				230	/
+
+															Rozlicznia ZUS					Ubezpiecznia społeczne i inne
+																	/	400	(6)					400		/			
+
+
+Przych ze sprzedarzy wyrobow gotowych							Rozrachunki z odbiorcami
+				/8000(8a)							(8c)	9840/
+
+
+	Wynik finansowy
+
+
+
+1. Faktura zakup materiałow 
+a)wart netto 10000
+b)Vat 23% 
+c)brutto 12300
+2. PZ materiały do magazynu 10000
+3.RW wydano mariały do zuzycia w produkcji  8000
+4. Lista płac wynagrodzenie brutto pracowników produkcyjnych 2000
+5. PK miesieczna stawka amortyzacji środków trwałych		230
+6.PK deklaracja skąłdek ubezpieczeń społęcznych obciażających pracodawce 400
+7.PW przyjęto wyroby gotowe do magazynu 	10000
+8.Faktura - sprzedarz wyrobow gotowych 
+a) wartość netto 8000
+b) VAT 23%		1840	
+c) wartość brutto 9840
+9.WZ wydano sprzedane wyroby gotowe według kosztu wytworzenia 5500
+10.Ustalono wynik finansowy
+---------------------------------------------------------------------------------------------------------------------------------------------
