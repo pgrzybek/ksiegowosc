@@ -49,36 +49,42 @@ c) wartość brutto 9840
 (koniec przykładu)
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+* -koszty 4
 
 Salda początkowe
 	Środki trwałe(A)			Rozrachunki z dos(A-P)					Rozr zakupu								Kap podstawowy(P)		 
 Sp 20000	/							/	12300(1c)			(1a)	10000		/10000(2)										/30000 Sp
 
 
-A		R-k bierżacy					Rrozrachunki z tyt Vat 						Materiały				*Zuzycie materiałow
-Sp 10000	/						(1b)2300	/								(2)10000/ 8000(3)		(3)	8000/
+A		R-k bierżacy					Rrozrachunki z tyt Vat 						Materiały				*Zuzycie materiałów
+Sp 10000	/						(1b)2300	/								(2)10000/ 8000(3)		(3)	8000/ 8000
 
+												"5"				
 		Rozliczenie kosztów				Koszty działalności podstawej			Rozrachunki z tytułu wynagrodzeń		*Wynagrodzenia		
-				/ 8000	(3a)		(3a)	8000	/	10000									/	2000	(4)				2000	/	
-				/2000				(4a)	2000	/
-				/230				(5a)	230		/
-				/400				(6a)	400		/
+	(10c)10630	/ 8000	(3a)		(3a)	8000	/	10000									/	2000	(4)		2000	/	2000
+				/2000	(4a)			(4a)	2000	/
+				/230	(5a)			(5a)	230		/
+				/400	(6a)			(6a)	400		/
 
 	Wyroby gotowe																				
 (7)	10000	/5500(9)																Umorzenie śr trwałych			*Amortyzacja
-																							/ 230	(5)				230	/
-
-															Rozlicznia ZUS					Ubezpiecznia społeczne i inne
-																	/	400	(6)					400		/			
-
-
-Przych ze sprzedarzy wyrobow gotowych							Rozrachunki z odbiorcami
-				/8000(8a)							(8c)	9840/
+																							/ 230	(5)				230	/230(10c)
+Koszt sprzedarzy wyrobow gotowych
+5500		/	5500(10b)										Rozlicznia ZUS					*Ubezpiecznia społeczne i inne
+																	/	400	(6)					(6)400		/		400(10c)	
 
 
-	Wynik finansowy
+		Przych ze sprzedarzy wyrobow gotowych							Rozrachunki z odbiorcami
+	(10a) 8000		/8000(8a)							(8c)	9840/
 
 
+			Wynik finansowy
+(10b)	5500	/	8000(10a)
+		----------------------
+		5500	/ 8000
+	SK	2500	/ -
+		-------------------
+zysk brutto		
 
 1. Faktura zakup materiałow 
 a)wart netto 10000
@@ -96,4 +102,39 @@ b) VAT 23%		1840
 c) wartość brutto 9840
 9.WZ wydano sprzedane wyroby gotowe według kosztu wytworzenia 5500
 10.Ustalono wynik finansowy
----------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Produkcja:
+
+Salda pocz
+
+Rach bierzacy:50000
+kapital 50000
+
+1.Faktura zakup  srodka trwalego 
+a) wart netto 15000
+b) VAT 23%
+c) wart brutto
+2.Przyjeto srodek trwaly do uzytkowania 15000
+3.Faktura- zakup materiałow 
+a) 6000
+b) VAT 23%
+c) wart brutto
+4.PZ przyjeto materiały do magazynu 6000 zl
+5.PK amortyzacja środka trwałego	stopa amortyzacji 14% roczna 14/12
+6.Wydano do zuzycia w produkcji materiały 6000
+7.Lista płac wynagrodznie brutto pracowników produkcyjnych 4200
+8.PK deklaracja skladek ubezpieczeń społecznych obciazajacych pracodawce 810 zl
+9.PW przyjeto wyroby gotowe do magazynu 7400
+10.Faktura sprzedarz wyrobow gotowych 
+a) wart netto 12000
+b)VAT 23%
+c)wart brutto
+11. WZ wydano sprzedane wyroby gotowe odbiorcy po koszcie wytworzenia 7000 zł
+12.PK wynik finansowy 
+
+Koszt sprzedanych na wynik finansowy
+Z wyrobow gotowych na koszt sprzedanych gotowych
+
+
