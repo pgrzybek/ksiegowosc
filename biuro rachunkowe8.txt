@@ -25,3 +25,61 @@ Jednostka będąca podatnikiem podatku VAT dokonała zakupu maszyny produkcyjnej
 Wartość początkowa maszyny środka trwałego
 56000+2600+1400=60000
 
+Jednostka będąca podatnikiem VAT w związku z budową hali produkcyjnej poniosła następujące nakłady:
+-zakupiono grunty 172000
+-opłacono na podstawie faktury sporządzony projekt budowlany wartość brutto 2091 zl w tym podatek VAT 23%
+-opłacono fakture za wykonane prace budowlano montarzowe wartość brutto 6396 zl w tym podatek VAT 23%
+-wydano z magazynu materiały na budowe tej hali 3200
+-wynagrodzenie brutto pracowników zatrudnionych  na budowie 14000
+-opłacono składki ZUS obciazające pracodawce wynoszace 20%
+Oblicz wartoscc poczatkowa tej hali produkcyjnej.
+
+	23%
+	---- 	= 18.70	
+	100%+23%
+
+netto*23%	= brutto * 18.7 =VAT
+
+		8%
+		--		=	7.41%
+		100+8%
+
+		5%
+		---		= 	4.71%
+		100%+5%
+
+-wartość netto sporządzonego projektu
+	
+	2091x18,70%=	391  -VAT 			2091 		123%
+	2091 -391 =		1700				x			100%
+
+											2091x100			
+										x=	--------	= 1700
+												123
+
+Razem koszty wytworzenia
+
+1700+5200+1400+3200 =55700
+
+Wartość początkowa hali produkyjnej wynosi
+55700
+
+Spółka nabyła zespół komputerowy w sklad którego wchodzą 
+- monitor LCD o wartości netto 1300
+- komputer 						3700
+-skaner komputerowy   			830
+- drukarka Lexmark				380
+Zespół komputerowy zostawł opodatkowany podatkiem 23%
+Oblicz wartośc początkową zespołu komputerowego dla a:
+podatnika VAT
+dla jednostki niebedacej podatnikiem VAT
+
+Dla podatnika VAT netto
+1300+3700+830+380= 6210
+niebedacej podatnikiem VAT 6210+1428,30=7638,30
+
+Ze srodkami trwałymi związane są następujące dokumenty OT: przyjęcie środka trwałęgo
+LT:likwidacja środka trałego
+MT:zmiana urzytkowania środka trwałego przesunięcie
+PT:przyjęcie przekazanie nieodpłatnie środka trwałego
+PK: polecenie księgowania
