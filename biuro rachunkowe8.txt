@@ -1,0 +1,27 @@
+Środki trwałe.Wartość początkowa środków trwałych.
+
+Środki trwałe to rzeczowe aktywa trwałe które muszą spełniać następujące warunki:
+-okres użytkowania powyżej 1 roku
+-są kompletne i zdatne powyżej 1 roku
+-przeznaczone są do wykorzytsania na własne potrzeby jednostki
+Środek trwały może mieć różną postać i są to:
+-nieruchomości:grunty, prawo użytkowania wieczystego gruntu, budowle lokale,itp
+-maszyny urządzenia techniczne,środki transportu, inwentarz żywy
+Wycena środka trwałego:
+-według ceny zakupu- ceny zapłaconej za składnik zmniejszające j o wartość bonifikat upustów i rabatów uwzględnijącą podatek VAT
+-według ceny nabycia
+W ramach tego wg ceny zakupu powięckszonej o dane koszty 
+np. załadunek transport montaż instalacja
+Według kosztu wytworzenia kosztów związanych z wytworzeniem kosztów związanych z wytworzeniem koszta trwałęgo
+zaliczamy koszty geodezyjne prace badawcze
+koszty bezpośrednie
+koszty pośrednie
+np. odsetki o kredytów zaciągniętych  na budowe
+według wartośi rynkowej:Wartości tego samego lub podobnego charakterem składnika  który można by nabyć za określoną cene w określonym miejscu i czasie.
+
+Wartość godziwa czyli wartości po której dwie poinformowane strony są w stanie zawrzeć transakcje na prawach transakcji rynkowej.
+Jednostka będąca podatnikiem podatku VAT dokonała zakupu maszyny produkcyjnej na podstawie faktury.Wartość netto zakupu wynosiłą 56 000 podatek VAT 23 % ponadto jednostka poniosła koszty zakupu i przystosowania maszyny do stanu użycia odpowiednio koszty transportu netto zakupionej maszyny 2600 i koszty montarzu netto 1400.Oblicz wartość początkową.
+
+Wartość początkowa maszyny środka trwałego
+56000+2600+1400=60000
+
