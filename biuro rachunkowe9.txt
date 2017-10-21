@@ -1,0 +1,174 @@
+Amortyzacja i umożenie środków trwałych- pojecie
+Środki trwałe uczestniczące w procesie gospodarczym zużywają się stopniowo tracąc swoją wartość przenoszą ją na wytworzone produkty.To zużywanie można rozpatrywać w dwóch kategoriach:
+*Amortyzacja to wyrażone w pieniądzu zuzycie srodkow trwalych i wliczanie w koszty w postaci "amortyzacji"
+*Umożenie środków trwałych to sukcesywne pomnijszanie wartości środka trwałego o kwotę zużycia .
+Odpisów amortyzacyjnych dokonuje sie od wartości początkowej poszczególnych środków trwałych stanowiących własność lub współwłasność jednostki.
+Wartość początkowa środka trwałego który musi byc poddany amortyzacji to 3,500 lub więcej.
+Kwiestie amortyzacji środków trwałych są regulowane w ustawie o rachunkowości oraz ustawach o podatku dochodowym.
+Stosowane unormowania prawne pozwalają ustalić amortyzacje dal celów
+* podatkowych czyli zgodnie z ustawą o podatku dochodowym(prawie podatkowych)
+*księgowych( bilansowych) zgodnie z ustawą o rachunkowości (prawem bilansowym)
+
+Zasady amortyzacji					amortyzacja podatkowa									amortyzacja bilansowa
+																							(księgowa)						
+---------------------------------------------------------------------------------------------------------------------------------																										
+Moment ropoczecia dokonywania 		od 1 miesaca nastepujacego po miesiecu					w miesiacu przyjecia środka trwałego  
+zapisów amortyzacyjnych				w którym środek trwały wprowadzono do ewidencji			do ekspoatacji lub w nastepnym miesiacu																								po jego przyjeciu do uzytkowania						
+Moment zkonczenia dokonywania		do końca miesiąca  w którym								nie poźniej niż z chwilą zrówania 																								wartości odpisów umożeniowych z watością pocztkową środka trwałego
+																							przeznacznie środka trałęgo do likwidacji sprzedarzy lub stwierdzenia jego niedoboru
+zapisów amortyzacyjnych				- nastepuje zrownanie sumy odpisow z wartoscia 			
+									poczatkowa srodka trwalego
+									-postawiono srodek w stan likwidacji,sprzedano,
+									stwierdzono jego niedobór
+									
+									odpisy amorytyzayjne środka trwałego dokunuje 
+									się w róznych ratch co miesiąc 
+									lub co kwartał jdnorazowo na koniec roku podatkowego
+									czestotliwości dokonywania zapisów amortyzayjnych
+
+ksiegowe:
+odpisy dokonywane są przez systematyczne planowe rozlozenie wartosci poczatkowej na ustalony przeez jednostke okres amortyzacji to jest okreslenie przez ile lat zuzywa sie srodek trwały
+
+
+Wartosc poczatkowa a wartosc bierzaca środdka trwałego
+Wartośc bierzaca środka trwałego = wart. poczatkowa - umorzenie
+Wartosc bierzaca wartosc netto albo wartosc bilansowa
+Wartosc poczatkowa = wartosc brutto.
+Metody amortyzacj
+a) metoda liniowa- polega na dokonywaniu rownomiernych odpisow amortyzacyjnych od wartosci srodka poczatkowego
+b)	metoda degresywna - polega na tym ze kwota zapiswo amortyzacyjnych maleje z upływem czasu do momentu zrownania metody degresywnej z met
+c) progresywna -kwota odpisow amortyzayjnych  jest coraz wieksza z upływem okresów amortyzaji
+d) metoda jednorazowego dopisu - ulga amortyzacyjne
+				WpxWa
+Amortyzacja=-------------
+				100
+Wp- wartosc poczatkowa
+Wa- wsp amortyzacji
+
+Am
+Wzor dla celow ksiegowych metody liniowej.
+Ar= Wp/t 
+t- przyjetej przez jednostke okres srodka trwałego
+
+Hurtowania olimpia przyjęła do eksploatacji samochód dostawczy w sierpniu 2017
+Wartość początkowa 150000
+Jedstka dokonuje odpisów amortyzacyjnych co miesiąc zgodnie z prawem podatkowym to jest od nastpenego miesiaca po miesiacu przyjecia srodka trwałęgo
+Stopa amortyzcji wynosi 20% oblicz amortyzacje miesiaczna i wartosc bierzaca srodka trwałego na dzien 31.12.17 dokonaj włąściwych księgowań.
+	150000* 20%	
+A= -------------- =30000
+		100
+		30000	
+Am=		----- = 2500
+		12
+
+	srodki trwałego 						Amortyzacja 									Umozenie
+sp 150000/							1)	2500/													/2500
+									2)	2500/													/2500	
+									3)	2500/													/2500
+									4)	2500/													/2500
+
+010(wn)					150000
+-0171( ma)				10000	
+------------------------------
+wart bierzaca			140000
+sr trwałęgo
+
+Hurtownia mewa przyjeła do ekspoatacji tokarkę w sierpniu 2017 o wartosci poczatkowej 9600 dla celow amortyzaji ksiegowej czas ekspoatacji został ustalony naa 5 lat oblicz wartosc miesiecznej amortyzacji tokarki dla celów księgowych określ miesiąc od którego można amortyzować tokarkę dla celów księgowych i podatkowych.
+	wp		9600
+Ar =-	=	---  = 1920
+	t 		5	
+
+	1920
+Am=	---- = 160 
+	12
+
+Dla celów księgowych można wybrać miesiąc sierpien lub wrzesien dla celow podatkowcyh moze to byc tylko wrzesień.
+
+Metoda dygresywna:
+ad b) polega na obliczaniu amortyzacji poszczególnych środków trwałych przy zastosowaniu stawek amortyzacyjnych rocznych podwyższonych odpowiednim współczynnikiem nie wyszym niż 2 w szczególnych przypadkach nie wyższym niż 3.
+W 1 roku używania środdka liczymy amortyzacje od wartosci początkowej
+W nastepnych latach podatkowych od ich wartosci netto ustalonej na poczatek kolejnych lat uzytkowania.
+Poczawszy od roku podatkowego w którym tak określona forma amortyzacji miałą by być niższa od rocznej kwoty amortyzacji obliczonej metodą liniową.Jednostka dokonuje dalszych odpisow metodą liniową.
+
+Przykład
+Spółka zoo w grudniu 2016 nabyłą i wrowadziła do ewidencji środków trwałych maszynę produkcyjną o wartości 72000.
+Okres ekonomicznej użyteczności maszyny określony został na 8 lat i pokrywa się z okresem amortyzacji wykazanym w ustawie o podatku dochodowym. Zgodnie z zasadami przyjetymi w zakłądowym planie kont społka rozpoczyna naliczanie odpisów amortyzacyjnych od nastepnego miesiaca po miesiacu przyjecia srodka trwłęgo do eksploatacji.Jednostka planuje amortyzowac zakupiona maszyne metoda dygresywna podwyzszajac roczna stawke amortyzacyjna dla metody liniowej wspolczynnikiem 2.
+Oblicz amortyzacje podatkowa w poszczegolnych latach i miesiacach metoda liniowa i degresywna i porownaj okres amortyzacji.
+	100
+Wa=----	= 12.5%
+	8
+
+Am= 72000* 12.5% = 9000
+							9000
+Amortyzacja miesieczna =	----- = 750
+							12	
+A roczna= 2x 12%  = 25%*->25%x72000= 18000
+		18000
+Amd =	------ = 1500
+		12
+
+Lata 						metoda liniowa												metoda dygresywna										
+2017							Ar =9000													18000	
+								Am =750														1500			
+
+
+2018 							Ar -9000													13500	
+								AM =750														1125
+
+
+2019							Ar= 9000													10125																															843,75
+								--
+2020																						9000			
+																							750
+2021							--																	
+
+2022							-															9000
+																							750
+2023							--														
+																							9000
+2024																						I 750 II 750
+																							III 750		IV 375	
+
+------------------------------------------------------------------------------------------------------------------
+								72000			
+
+72000-18000= 54000
+ard=13500/12=1125
+54000-13500= 40500
+
+ard= 4050 * 25%=10125
+
+	10125
+am= ------ = 843.75
+		12
+
+
+Z powyższych obliczeń wynika że metoda dygresywna przyśpieszyła amortyzowanie środka trwałego o cały rok 24 i 7 miesięcy roku 23 jednostka przesła na metode liniowa z dygresywnej w 2020 roku ponieważ amortyzacja roczna liczona metodą degrysywna w 2020 wynosiła by 7593.95 i była by niższa od 9000 przy metodzie liniowej. 
+
+Oblicz i ustal okres amortyzacji metodą dygresywną i liniową jeżeli przedsiębiorstwo produkcyjne zygzak prowadziło w grudiu 2015 do ewidencji maszyne produkcyjna o wartosci poczatkowej wynoszacej 120000. Stopa amortyzacji wynosi 10% a wspolczynnik 2.
+Ustal w którym roku jednostka przechodzi na metodę liniowa.
+
+
+2016
+
+ar= 12000*10%=12000			Ard 2*10%*120000=24000
+
+	12000	
+am= ------- = 1000			am 24000/12 =2000
+	12	
+
+2017
+							120000-24000=96000
+
+							ard=2*10%x96000= 19200
+
+2018								
+							96000-19200=76800
+							76800*20%=15360
+
+2019						76800-15360	=61440
+							61440*20%=	12288
+
+2020						61440- 12288=49152
+							49152*20%=	982,4
+							Firma przechodzi na maetode liniowa.						
