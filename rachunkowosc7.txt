@@ -1,0 +1,80 @@
+Salda początkowe materiały 20000
+Kapitał podstawowy zakłądowy 20000
+
+1.Rw wydano materiały do zuzycia w produkcji 12000
+2.PW przyjeto wyroby gotowe z produkcji do magazynu 12000
+3.Faktura sprzedarz wyrobow gotowych 
+a) wartosc netto 20000
+b) VAT 23% 4600
+c) wartosc brutto 24600
+4.Wz wydano sprzedane wyroby gotowe odbiorcy po koszcie wytworzenia 12000
+5.Pk wynik finansowy
+
+		materiały 		Zuzycie materiałow							Kap podst						
+	----------------	-----------------						------------------			
+	20000/12000		(1)	12000/	12000	(5c)									/20000 sp
+------------------------------------------
+	20000/12000
+	8000/	
+
+	Rozl kosztow				koszty dział podst				wyr gotowe
+(5c)	12000	/12000		(1a)	12000/12000		(2)			12000/12000
+------------------------------------------------------------------------------
+		12000	/12000				12000/12000					12000/12000
+
+
+	Przychod ze sprzedarzy wyrobow				rozrachunki z odbiorcami(1) 			koszty sprzedarzy wyr got(9)
+(5c)	20000	/ 20000	(3a)	(3c)		24600/									12000/12000 (5b)
+----------------------------------------------------------------------------------------------------
+		20000	/ 20000						24600/									12000/12000 
+
+
+Row z tyt.p. VAT														Wynik finansowy(11)
+		/	4600/(3b)												(5a)	12000/20000(5a)
+-------------------------											----------------------
+		/	4600													(5a)	12000/20000		
+
+
+Nazwa konta							Obroty							Salda		
+									Wn/ Ma 							Wn/Ma
+
+rozrachunki z odbiorcami 			24600/ 						24600/		
+rozrach. z tyt VAT 					 	/4600						/ 4600
+materiały 							20000/  12000				8000/
+Zuzycie materiałów 					12000/12000						/
+Rozliczenie kosztow					12000/12000						-
+Koszty działalnosci podstawowej		12000/ 12000					-	
+wyroby gotowe						12000/12000						-
+przychod ze sprzedarzy wyr gotowych 20000/20000						-
+kap podstawowy							/20000						/20000	
+wynik finansowy						12000/20000						/8000
+									---------------				----------------	
+									136600	/136000				32600/32600
+
+			Bilans
+
+A 								P
+							A.kW 	28000
+					-		I		20000	
+					-		II		-
+					-		III		8000
+Ao					32600	B 		4600
+Zapasy				8000	I
+Naliczone Koszty 	24600	II 		4600
+
+------------------------------------------
+					32600			32600
+
+Konta wynikowe nie wchodza do salda.
+
+
+Przychody(Konto wynikowe)
+-	/	+
+
+Pozostałe przychody operacyjne(konto wynikowe)
+- wpływ z kar od dostawcow
+-inwentaryzacja :nadwyzka
+-rozszerzenia ewidencji ksiegowej
+
+Pozostałe koszty operacyjne(konto wynikowe)
+-inwentaryzacja :niedobór
