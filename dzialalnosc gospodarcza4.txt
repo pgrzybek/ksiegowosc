@@ -63,3 +63,26 @@ c) ze względu na podmiot dominujący
 -dostawcy(miał miejsce do 89 roku)
 
 Elementy rynku:
+*Cena 
+*Popyt
+*Podaż
+Cena jest odzwieciedleniem wartości danego dobra czy usługi w gospodarce centralnie planowanej ceny były ustalane przez państwo.
+W gospodace rynkowej ceny ustala sam rynek.
+Popyt ilość dóbr i usług na które zgłoszone zapotrzebowanie w danym czasie i danej cenie.Po stronie popytu stoi  konsument który chce kupić jak najtaniej i najlepiej. Wraz ze wzostem ceny popyt maleje wraz ze spadkiem ceny popyt rośnie. Przy założeniu ceteris paribus (inne czynniki pozacenowe nie zmieniają się).
+
+Obrazem graficznym popytu jest krzywa popytu d która jest krzywą malejaca( krzywa ceny do popytu.png)
+
+
+Jeżeli na popyt ma wpływ tylko cena wtedy następuje ruch wdłuż krzywej popytu z punktu a do b.
+Jeżeli na popyt mają wpływ inne czynniki niż cena wtedy następuje przesunięcie całęj krzywej popytu z D do D1 popyt rośnie
+D do D2 maleje.
+Dobra komplementarne, substytucyjne.
+Czynniki poza cenowe wpływające na popyt.
+a) dochód konsumenta z D do D1
+b) moda gusty preferencje z D do D1
+c)dobra komplementarne(uzupełniające się)
+Jeżeli cena jednego dobra komplementarnego rośnie to popyt na drugie dobro zmniejsza się. D do D2.
+Dobra substytucyjne zamienne: masło margaryna bułka chleb
+Jeżeli cena jedngo dobra subbstytucyjnego rośnie to popyt na drugie dobre zwieksza się D do D1.
+Pozostałe czynniki: promocja ,sezonowość, dogodne warunki sprzedarzy.
+
