@@ -172,3 +172,113 @@ am= ------- = 1000			am 24000/12 =2000
 2020						61440- 12288=49152
 							49152*20%=	982,4
 							Firma przechodzi na maetode liniowa.						
+
+Spółka zoo w grudniu 2015 nabyła w prowadziła do ewidencji środek trwały o wartości początkowej 64800 okres ekonomicznej użytkowności środka trwałego został ekroślony na 5 lat i pokrywa z metodą podatkową.
+Jednostka planuje amortyzować zakupiony środek trwały metodą dygresywną podwyzszając roczną stawkę amortyzacyjną dla metody liniowej współczynnikiem 2.Obliczyć amortyzacje podatkową metodą liniową i dygresywną dokonac porównania.
+	100
+Wa= ---	= 20%
+	5	
+
+Ar=	64800x20%=12960
+
+		12960
+Am =	------ = 1080
+		12	
+
+Ar= 2*20% x64800 = 25920
+	25920	
+Am=	 ---- = 2160
+	12
+
+
+
+Lata 		Metoda liniowa				Metoda dygresywna
+2016			ar= 12960					25920
+				am= 1080					2160
+
+
+2017				-						15552		
+											1296
+
+2018				-						ar= 12960
+											am =1080			
+
+2019				-						am=	1080
+												1080
+												1080
+												1080								
+												1080
+												1080
+												1080
+												1080
+												1080								
+												1080
+												1080	
+												648
+2020				-								
+----------------------------------------------------------------
+				64800							64800
+
+
+64800-25920=30880
+ar 30880x40%=15552
+
+a 15552/12=1296
+
+Dokumentacja likwidacji środków trwałych.
+Środki trwałe nie nadające się do dalszego użytkowania podlegają likwidacji koniecznośc likwidacji środka trwałęgo może być nastepstwem jego:
+- całkowitego zużycia
+- zniszczenia
+- zaginiecia
+
+Stan likwidacji czyli fakt postawienia srodka trwalego w ten stan stwierdza sie w dowodzie likwidacja srodka twalego lt.Fakt ten musi być potwierdzony przez powołaną komisje. POStawienie środka trwałęgo w stan likwidacji jest równoznaczne z jego wycofaniem z uzytkowania i stanowi podstawe wyksiegowania wartosci poczatkowej srodka trwalego i jego dotychczasowego umorzenia.Do  momentu fizycznej likwidacji danego środkaa trwałegoujmuje sie go w ewidecji poza bilansowej na koncie srodki trwale w likwidacji w jego wartosci poczatkowej.
+
+			Ewidencja poza bilansowa 
+					srodki trwale w likwidacji
+
+postawienie srodka trwalego		/	zakonczenie likwidacji 
+w stan likwidacji				/	srodka trwalego
+
+
+W jednostce produkcyjnej w dniu 17.III.1X postawiono w stan likwidacji całkowicie zuzyte biurko o numerze inwentarzowym 24/201x.
+Biurko eksploatowane w dziale ksiegowosci nie nadaje sie do dalszego urzytkowania i naprawy komisja likwidacyjna uznala ze biurko nalezy spalic wartosc poczatkowa likwidowanego obiektu wynosiła 4000 a dotychczasowe umorzenie 3800.Wystaw dowod lt nr 3.
+
+
+	Srodki trwale w likwidacji						010	
+4000		/								4000	/ 4000	
+
+		Umozenie
+3800		/ 3800
+
+Dokument MT
+
+Dany środek trwały może przestać być użytkowany w jednym miejscu firmy komórce organizayjnej i przesunięty od użytkowania w innej komórce organizayjnej fakt ten należy udokumentować za pośrednictwem dokumentu MT zmiana miejsca użytkowania.
+Przykład 
+Hurtownia OLIMP sp z o. o.
+44-200 Rybnik ul. Polna 15 
+dnia 30 września 2017 przekazała drukarkę samsung laserową czarną z działu kadr do działu księgowości numer inwentarzowy 4522/16
+Wystaw dokument mt o numerze 1/09/2017 .Wartość drukarki to kwota 2300.
+Zbędne środki trwałe posiadające jeszcze wartośc użytkową mogą być przekazane nieodpłatnie innym jednostkom.
+Przy nieodpłatnym przekazaniu środka trwałego nie występują środki pieniezne z tego tytułu(firma nie płaci).
+Jednak w przypadku darowizny podmiotów co do których podatnikowi przysługiwało prawo odliczenia podatku naliczonego konieczne jest opodatkowanie podatkeim należnym  od towarów i usług.Nieodpłątne przekazanie należy udokumentować za pomocą dowodu PT . Przyjęcie przekazanie środka trwałego.
+
+		761
+------------------		
+1b) 1200	/
+	400	
+		
+		225
+	-----------	
+		/ 400
+
+		010
+		------------
+		4000/4000(1)
+
+		071
+		umozenie
+	-------------
+	2800	/
+
+
+Zaczynamy od PT.
