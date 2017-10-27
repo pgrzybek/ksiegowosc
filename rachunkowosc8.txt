@@ -98,3 +98,34 @@ Wynik finansowy
 
 
 
+-----------------------------------------------------------------------------------------------------------------------
+Salda pocz.
+Rachunek bierz 50000
+Kapital zakl 50000
+1.Faktura - zakup towarow 
+a) wart netto 20000
+b) VAT 23%
+c)wart brutto 24600
+2.PZ przyjeto towary do magazy 24000
+3. Zaciagnieto kredyt bankowy 10000
+4. Faktura za transport zakupionych towarow 
+a) wart netto 200
+b)VAT 23%
+c)wart brutto 246
+5.Wyciag bankowy zapłacony prowizje i odsetki od kredytu 350 zl
+6.Lista płac wynagrodzenie brutto pracowników handlowych 2600
+7.PK skladki ubezpieczen społecznych obciazajace pracodawce 530
+8.Faktura - sprzedarz towarow
+a)wart netto 18000
+b)VAT 23%
+c)wart brutto
+9.WZ wydano sprzedane towary odbiorcy według cen zakupu 10000
+10.Rachunek kosztow podrozy służbowej 220 zl
+11.Wyciag bankowy 
+a)wpływ kary umownej 150 (pozostałe przychody operacyjne i rachunek bierzacy)
+b)uregulowanie zobowiazania z tytułu podróży służbowej 220
+12.PK naliczono podatek dochodowy od osób prawnych 19% ...(rozrachunki z budzetami i podatek dochodowy)
+13.PK ustalono wynik finansowy netto
+
+4 i 5
+
