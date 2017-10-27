@@ -1,0 +1,100 @@
+870
+Konto
+Podatek dochodowy		Rozrachunki z budżetami
+		/	(1)		PK 				/ (2)
+		/		<------>			/
+		/							/	
+
+
+					Wynik finansowy
+					----------------
+							/
+							/	
+
+				zysk SkG		SkDt stdata
+
+Płynność, rentowność, zadłużenie,sprawności działania.4 częste grupy do egzaminu.
+
+Dane w  Rachunkowość 6.
+(Kolejne literki przy numerach np 12a oznaczający kontunuacje operacji)
+
+		R-k bierzacy
+Sp 50000 /
+
+Pozostałe Rozrachunki 					Rozliczenie zakupu		 	Kap zakładowy
+------------------------- 				------------------			------------------	
+			/	18450	(1c)	(1a)	15000 	/ 15000 (2)					/50000 Sp
+								(3a)	6000    / 6000(4)
+
+	Rozliczenie z tyt Vat  				
+(1b)3450	/	27609(10b) 
+(3b)1380    /
+
+		Śr trwałe						Materiały			*Zuzycie materiałow			
+(2)	15000  /						(4)	6000 /6000(6)		6000/
+
+Rozrachunki z dostawcami
+			/ 7380 (3c)
+
+Umożenie srodków trwałych
+			/175(5)
+
+
+
+Rozliczenie kosztów						Koszty działalności podstawowej(produkcja w toku w bilansie) 				
+(12c)	175		/175			(5a)			175		/7400(9)
+(12d)	6000	/6000			(6a)			6000	/
+(12e)	4200	/4200			(7a)			4200	/
+(12f)	810		/810			(8a)			810		/
+
+
+Rozrachunki z tytułu wynagrodzen		Ubezpieczenia społeczne
+			/	4200(7)	 				(8)810 /
+
+										Rozliczenie z Zus
+												/	810(8)	
+
+		Wyroby gotowe						Rozrachunki z odbiorcami
+(9)	7400		/						(10c) 14760  /
+
+
+Przychody ze sprzedarzy wyrobow gotowych		koszt sprzedarczy wyr gotowych
+	(12a)	12000	/	12000 (10)				(11) 7000 / 7000(12b)		
+
+
+
+		Wynik finansowy								*Amortyzacja
+(12b)	7000	/ 12000(12a)					(5) 175	/175	(12c)	
+
+		*Wynagrodzenie 
+(7)	 4200 		/	4200	(12c)	
+
+
+											obroty 
+
+											Wn 	/	Ma	
+
+Środki trwałe								15000	/		
+Umorzenie środków trwałych							/175
+Rachunek bierzący								
+Rozrachunki z dostawcami
+Rozrachunki z odbiorcami
+Pozostałe rozrachunki
+Rozliczenia ZUS
+Rozrachunki z tytułu VAt
+Rozrachunki z tytułu wynagrodzeń
+Materiały
+Amortyzacja
+Wynagrodzenia
+Ubezpiecznia społeczne
+Rozliczenie z tytułu wynagrodzeń
+Rozliczenie kosztów
+Koszty działalności podstawowej
+koszt sprzedarczy wyr gotowych
+Wyroby gotowe
+Przychody ze sprzedarzy wyrobow gotowych
+Kapitał zakładowy
+Wynik finansowy
+
+
+

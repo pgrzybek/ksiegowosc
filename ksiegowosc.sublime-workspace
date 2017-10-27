@@ -80,73 +80,31 @@
 	"buffers":
 	[
 		{
-			"file": "rachunkowosc3.txt",
+			"file": "rachunkowosc6.txt",
 			"settings":
 			{
-				"buffer_size": 2259,
+				"buffer_size": 4711,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "dzialalnosc gospodarcza2.txt",
+			"contents": "Salda początkowe materiały 20000\nKapitał podstawowy zakłądowy 20000\n\n1.Rw wydano materiały do zuzycia w produkcji 12000\n2.PW przyjeto wyroby gotowe z produkcji do magazynu 12000\n3.Faktura sprzedarz wyrobow gotowych \na) wartosc netto 20000\nb) VAT 23% 4600\nc) wartosc brutto 24600\n4.Wz wydano sprzedane wyroby gotowe odbiorcy po koszcie wytworzenia 12000\n5.Pk wynik finansowy\n\n\t\tmateriały \t\tZuzycie materiałow\t\t\t\t\t\t\tKap podst\t\t\t\t\t\t\n\t----------------\t-----------------\t\t\t\t\t\t------------------\t\t\t\n\t20000/12000\t\t(1)\t12000/\t12000\t(5c)\t\t\t\t\t\t\t\t\t/20000 sp\n------------------------------------------\n\t20000/12000\n\t8000/\t\n\n\tRozl kosztow\t\t\t\tkoszty dział podst\t\t\t\twyr gotowe\n(5c)\t12000\t/12000\t\t(1a)\t12000/12000\t\t(2)\t\t\t12000/12000\n------------------------------------------------------------------------------\n\t\t12000\t/12000\t\t\t\t12000/12000\t\t\t\t\t12000/12000\n\n\n\tPrzychod ze sprzedarzy wyrobow\t\t\t\trozrachunki z odbiorcami(1) \t\t\tkoszty sprzedarzy wyr got(9)\n(5c)\t20000\t/ 20000\t(3a)\t(3c)\t\t24600/\t\t\t\t\t\t\t\t\t12000/12000 (5b)\n----------------------------------------------------------------------------------------------------\n\t\t20000\t/ 20000\t\t\t\t\t\t24600/\t\t\t\t\t\t\t\t\t12000/12000 \n\n\nRow z tyt.p. VAT\t\t\t\t\t\t\t\t\t\t\t\t\t\tWynik finansowy(11)\n\t\t/\t4600/(3b)\t\t\t\t\t\t\t\t\t\t\t\t(5a)\t12000/20000(5a)\n-------------------------\t\t\t\t\t\t\t\t\t\t\t----------------------\n\t\t/\t4600\t\t\t\t\t\t\t\t\t\t\t\t\t(5a)\t12000/20000\t\t\n\n\nNazwa konta\t\t\t\t\t\t\tObroty\t\t\t\t\t\t\tSalda\t\t\n\t\t\t\t\t\t\t\t\tWn/ Ma \t\t\t\t\t\t\tWn/Ma\n\nrozrachunki z odbiorcami \t\t\t24600/ \t\t\t\t\t\t24600/\t\t\nrozrach. z tyt VAT \t\t\t\t\t \t/4600\t\t\t\t\t\t/ 4600\nmateriały \t\t\t\t\t\t\t20000/  12000\t\t\t\t8000/\nZuzycie materiałów \t\t\t\t\t12000/12000\t\t\t\t\t\t/\nRozliczenie kosztow\t\t\t\t\t12000/12000\t\t\t\t\t\t-\nKoszty działalnosci podstawowej\t\t12000/ 12000\t\t\t\t\t-\t\nwyroby gotowe\t\t\t\t\t\t12000/12000\t\t\t\t\t\t-\nprzychod ze sprzedarzy wyr gotowych 20000/20000\t\t\t\t\t\t-\nkap podstawowy\t\t\t\t\t\t\t/20000\t\t\t\t\t\t/20000\t\nwynik finansowy\t\t\t\t\t\t12000/20000\t\t\t\t\t\t/8000\n\t\t\t\t\t\t\t\t\t---------------\t\t\t\t----------------\t\n\t\t\t\t\t\t\t\t\t136600\t/136000\t\t\t\t32600/32600\n\n\t\t\tBilans\n\nA \t\t\t\t\t\t\t\tP\n\t\t\t\t\t\t\tA.kW \t28000\n\t\t\t\t\t-\t\tI\t\t20000\t\n\t\t\t\t\t-\t\tII\t\t-\n\t\t\t\t\t-\t\tIII\t\t8000\nAo\t\t\t\t\t32600\tB \t\t4600\nZapasy\t\t\t\t8000\tI\nNaliczone Koszty \t24600\tII \t\t4600\n\n------------------------------------------\n\t\t\t\t\t32600\t\t\t32600\n\nKonta wynikowe nie wchodza do salda.\n\n\nPrzychody(Konto wynikowe)\n-\t/\t+\n\nPozostałe przychody operacyjne(konto wynikowe)\n- wpływ z kar od dostawcow\n-inwentaryzacja :nadwyzka\n-rozszerzenia ewidencji ksiegowej\n\nPozostałe koszty operacyjne(konto wynikowe)\n-inwentaryzacja :niedobór\n-zapłacono karę\n\nPrzychody finansowe\n\nKoszty finansowe\n\n\n1) Wb otrzymano kare umowną 200\n\n\tR-k bierzacy\t\t\t\tPozostałe przych op.\t\t\n-------------------\t\t\t\t--------------------\n1)\t200\t/\t\t\t\t\t\t\t\t/\t200\t\t\n\t\t/\t\t\t\t\t\t\t\t\t+\t\t\t\t\t\n\t\t/\n\n2)Zapłacono kare umowna 150 zl\n\n\tR-k bierzacy\t\t\t\t\tPozostałe koszty op\t\t\nSp x\t/ 150,00\t(2)\t\t\t\t150\t\t/\t\n\t\t\t\t\t\t\t\t\t\t+\t/\t-\n\n3) wyciag bankowy - wpływ odsetek od srodkow zgromadzonych na rachunku bierzacym\n\n\tR-k bierzacym \t\t\tprzychod finansowy\n3)50,00\t/\t\t\t\t\t\t\t/ 50,00 3)\n\n4)Wb zapłacono odsetek od kredytu\n\n\tr-k bierzacy \t\tkoszty finansowe\nx\t\t/ 120,00\t\t120,00\t\t/\n\n\nSrodki trwale 15000\nTowary\t\t\t15000\nkapital zakladowy 30000\n\n1.Faktura sprzedarz towarow\na) wartosc netto 14000\nb)VAT 23% 3220\nc)brutto\t17220\n\n2.Wartosc w cenie zakupu 10000\n3.Faktura za transport towarow\na) wartosc netto 200\nb) Vat 23%\t46\nc)wartosc brutto\t246\n\n4.Pk amortyzacja srodkow  trwałych odpis roczny 20% stawka miesieczna ..\n5.Pk wynik finanssowy\n\n* koszty według rodzaju\nzgodnie z numeracja kont w ksiazce\n\n(1)\tSrodki trwale\t\t\tTowary\t\t\t\t\tKap zaklaadowy\n15000 /\t\t\t\t\t15000/\t\t\t\t\t\t\t\t/30000\n\n\n\tRozrachunki z odbiorcami\t\t\t\t\t\tPrzychody ze sprzedarz\n\t\t\t\t/14000\t1a)\t\t\t\t\t\t\t\t\t\ttowarow\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t/ 14000 \t(1a)\n\nRozrachunki z tytułu podatku VAT(5)\n3b)\t\t46\t\t/\t3220\t\t1b)\n\n\t\t\n\t\tWartosc sprzedarzy\t\t\t\t\t\t\tKoszty handlowe\n(2)\t10000/\t\t\t\t\t\t\t\t\t\t\t(3a)\t200/\n\n(3)\tRozrach z dostawcami\t\t\t\t\t\t(2)\tUmozenie środków trwałych\t\n\t\t\t\t/246(3c)\t\t\t\t\t\t\t\t\t/ 250(4)\n\n* amortyzacja \t\t\t\t\t\t\t\t\t(4)\tRozrachunki z odbiorcami\t\t\t\n250/250(5c)\t\t\t\t\t\t\t\t\t\t\t\t1c) 17200/\t\n\n\tKoszty handlowe \t\t\t\t\t\t\tRozliczenie kosztow\n(3a)200/ 450(5a)\t\t\t\t\t\t\t5a)\t450\t/200(3a)\t\t\t\t\t\t\n(4a)250/\t\t\t\t\t\t\t\t\t\t\t/250(4a)\n\nWynik finansowy \t\t\t\t\t\t(8)\tUslugi Obce\n(5b)10000/ 14000\t\t\t\t\t\t(3a)\t200\t/ 200\t\n(5c)250/\n(5d)200/\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\nŚrodki trwale\nUmozenie środków trwałych\nRozrach z dostawcami\nRozrachunki z odbiorcami\nRozrachunki z tytułu podatku VAT\nTowary\nAmortyzacja\nUsługi obce\nRozliczenie kosztow\nKoszty handlowe\nprzychody ze sprzedarzy\nwart sprzedany towarow wedlug zakupu\nKapitał zakłądowy\nwynik finansowy\n\nObroty  Salda\n83066 \t37220\n\n\tBilans\n\tA \t\t\t\t\t\t\t\t\t\tP\n\t\nA At \t\t\t\t\t\t147500\t\tKw 33550\t\nI Wart  \t\t\t\t\t\t-\t\tI   30000\nII Rzeczowe aktywa\t\t\t147500\t\tII  -\nIII Inwestycje krotkow \t\t\t-\t\tIII\t3550\n\nB. Ao \t\t\t\t\t\t22220 \t\t\t\nI Zapasy\t\t\t\t\t5000\t\tB Zob \nII Naleznosci\t\t\t\t17220\t\tI 3420\t\nIII \t\t\t\t\t\t-\n\t\t\t\t\t\t\t-------\t\t--------\n\t\t\t\t\t\t\t36970\t\t36970\n\nPomniejszane o umozenia 250 zl\t\t\t\t\t\t\t",
+			"file": "rachunkowosc7.txt",
+			"file_size": 5082,
+			"file_write_time": 131530735423480303,
 			"settings":
 			{
-				"buffer_size": 1517,
+				"buffer_size": 4845,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "rachunkowosc4.txt",
+			"file": "rachunkowosc8.txt",
 			"settings":
 			{
-				"buffer_size": 5156,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "biuro rachunkowe5.txt",
-			"settings":
-			{
-				"buffer_size": 5247,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "biuro rachunkowe6.txt",
-			"settings":
-			{
-				"buffer_size": 3959,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "dzialalnosc gospodarcza3.txt",
-			"settings":
-			{
-				"buffer_size": 4281,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "biuro rachunkowe7.txt",
-			"settings":
-			{
-				"buffer_size": 0,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "biuro rachunkowe4.txt",
-			"settings":
-			{
-				"buffer_size": 9731,
+				"buffer_size": 201,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -204,6 +162,17 @@
 	],
 	"file_history":
 	[
+		"/D/ksiegowosc słuchacz/biuro rachunkowe9.txt",
+		"/D/ksiegowosc słuchacz/dzialalnosc gospodarcza4.txt",
+		"/D/ksiegowosc słuchacz/biuro rachunkowe8.txt",
+		"/D/ksiegowosc słuchacz/rachunkowosc5.txt",
+		"/D/ksiegowosc słuchacz/rachunkowosc3.txt",
+		"/D/ksiegowosc słuchacz/biuro rachunkowe5.txt",
+		"/D/ksiegowosc słuchacz/biuro rachunkowe6.txt",
+		"/D/ksiegowosc słuchacz/biuro rachunkowe7.txt",
+		"/D/ksiegowosc słuchacz/dzialalnosc gospodarcza3.txt",
+		"/D/ksiegowosc słuchacz/rachunkowosc4.txt",
+		"/D/ksiegowosc słuchacz/dzialalnosc gospodarcza2.txt",
 		"/D/ksiegowosc słuchacz/biuro rachunkowe3.txt",
 		"/D/ksiegowosc słuchacz/biuro rachunkowe4.txt",
 		"/D/ksiegowosc słuchacz/dzialalnosc gospodarcza.txt",
@@ -262,187 +231,16 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "rachunkowosc3.txt",
+					"file": "rachunkowosc6.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2259,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2259,
-								2259
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 351.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "dzialalnosc gospodarcza2.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1517,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1517,
-								1517
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "rachunkowosc4.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5156,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5156,
-								5156
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2676.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "biuro rachunkowe5.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5247,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5247,
-								5247
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1237.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "biuro rachunkowe6.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3959,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3127,
-								3127
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1234.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "dzialalnosc gospodarcza3.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4281,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4281,
-								4281
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 858.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "biuro rachunkowe7.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
+						"buffer_size": 4711,
 						"regions":
 						{
 						},
@@ -455,30 +253,60 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "biuro rachunkowe4.txt",
-					"semi_transient": true,
+					"buffer": 1,
+					"file": "rachunkowosc7.txt",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9731,
+						"buffer_size": 4845,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3258,
-								3258
+								3229,
+								3229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1830.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "rachunkowosc8.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
 							]
 						],
 						"settings":
@@ -486,10 +314,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 771.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -554,7 +382,7 @@
 		[
 			[
 				"",
-				"D:\\odreczne\\odreczne.sublime-project"
+				"D:\\cubeside\\cube.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -576,7 +404,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 181.0,
+	"side_bar_width": 255.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

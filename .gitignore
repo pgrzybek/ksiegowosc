@@ -34,3 +34,5 @@ _ReSharper*/
 #Nuget packages folder
 packages/
 *.jpg
+/Proces sukcesu.png
+/ksiegowosc.sublime-workspace
