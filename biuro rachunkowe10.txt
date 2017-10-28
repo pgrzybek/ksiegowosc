@@ -1,0 +1,56 @@
+Hurtownia kinga spółka zoo
+Wrocław 58800
+NIP 948 00 50 240
+przekazala w dniu 10 stycznia 1x w formie darowizny(umowa 27/201x) komputer o wartosci poczatkowej 6000 i dotychczasowym umorzeniu 4000 na jakies społki olena z wrocławia nr przekazanego srodka trwałe 341/1x kst-491 wpołczynnik amortyzacji 39%
+wartosc netto danego srodka trwalego jest rowna wartosci rynkowej dokumentacje dotyczaca darowizny sporzadzono 10 stycznia
+Procesor celeron 
+Pamiec operacyjna  RAM 512 MB
+Dysk twardy 60 GB
+stawka VAT 23 %
+
+Wystaw dowód PT wraz z PK nr 2 dotyczący udokumentowania przekazania srodka trwałego do darowizny i dowod PK nr 3 w celu naliczenia podatku naleznego od darowanego srodka trwalego otworz konta oraz wymien i zaksieguj operacje gospodarcze. 
+
+PT -przekazano nieodplatnie komputer
+a)wyksiegowanie wartosci poczatkowej komputera	 6000
+b)wyksiegowanie umozenia						4000	
+c) wyksiegowania wartosci netto komputera		2000
+
+Podatek VAT nalezny od przekazanego srodka trwałego
+2000*23%= 460zl.
+	
+		010						071
+	sr trwały					umozenie
+sp 6000/6000(1a) 		(1b)	4000/4000
+
+	225							761
+	/460(2)				(1c) 2000/
+						(2) 460	/
+-------------------------------------------------------------
+	Kasa(100)			Materiały(310)			Srodki tr(010)						Umorzenie(071)			*Amortyzacja(400)	
+Sp 45600/14760(4)		sp 12000/			sp 180000/	25000(6a)				(6b)18000	/42000 sp 		(10a) 3000/
+											(3)	17350/	16200(7a)				(7b)8400	/	
+											(5)	12000/	14000(9)				(9b)5600	/
+											---------------------				--------------------
+											209350	/	55200					32000/		42000
+											------------------					13000	/	
+														154150					-----------------------			
+																				sk		/	3000
+	Rozl zakupu sr trwalego(300)  	Rozlicznie z tyt VAT(225)		Pozostałe rozrach(240)
+	(1a)16800/17350(3)						(1b)3864	/		(8c)	10455/20664(1c)
+	(2a)550	 /12000(5)						(2b)126,50	/					 /76,50(2c)
+	(4a)12000/								(4b)2750	/	
+		
+	Pozostale koszty operacyjne(761)			Pozostale przychody operacyjne(760)
+(6c) 7000	/												/8500(8a)					
+(7c) 7800	/
+(9c) 8400   /
+
+																									Koszty działalnosci pods
+																									(10b)3000/	
+
+																									Rozliczenie kosztow
+																											/3000(10b)
+Amortyzacja= 180000*200= 36000
+	36000	
+Am=	-------- = 3000
+	12
