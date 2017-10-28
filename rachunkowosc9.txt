@@ -121,3 +121,112 @@ Numer operacji 	Kwota operacji					konto
 21 c +
 22 a - c
 
+		Kasa				Usługi obce
+sp 830	/ 480(1)		(1)480 	/	
+
+	R-k bierzacy			Rozliczenie zakupu
+sp 14600 /6150(3)				(2a)5000	/5000(2d)
+	
+	Towary						Rozliczenie z tyt. pod.VAT
+Sp 7260 /3750(5)				(2b)1150	/ 1293,75(4b)
+(2d)5000/	
+						
+Rozliczenie zakupu										Rozrachunki z dostawcami
+(2a)5000/5000(2d)										(3)	6150	/6150(2c)
+
+	
+	Rozrachunki z odbiorcami							Wart sprzedanych towarów
+(4c)6918,75	/6918,75(6)											(5) 3750 /
+
+
+
+				730 5625,00
+				731 3750
+					-------
+Zrealizowane 		1875
+
+koszty 				480
+Wynik w sprzedarzy 	1395
+					zysk
+------------------------------------------------------------------------------------------------------------------------------------------
+
+wg- wyroby gotowe
+1500 sztuk PN	14000,00
+56000-14000=42000 koszt wytworzenia wyrobów gotowych
+jk
+42000/3500= 12 zl
+Cena sprzedarzy
+Zysk 4,80
+
+12 - 100
+x - 140
+	12*140
+x= ---------
+	100	
+
+x= 16.80
+
+1. PW przyjeto z produkcji do magazynu 3500 sztuk wyrobów gotowwych po 12 zl za sztukę 42000
+2.Sprzedarz wyrobow gotowych  zaplata w terminie pozniejszym
+a) wartosc netto 620 *16.80=10416
+b)podatek VAT 23%	2395.68
+c)wartosc brutto 	12811.68
+3.Faktura sprzedarz wyrobow gotowych za gotowke
+a) wartosc netto 15 sztuk po 16.80 252  sl
+b) podatek VAT 23		57.96
+c) wartosc brutto 		309.96
+4.Wydanie sprzedanych wyrobow gotowych 635  po 12 zl 7620
+
+
+	Koszty dzialalnosci podst 				Wyroby gotowe
+sp 56000	/42000		(1)				42000	/
+
+
+Przychod ze sprzedarzy wg 					Koszt sprzedarzy wg 										Kasa		
+			/ 10416(2a)																	(łacznie)(3c)309,96/									
+			/	252(3a)	
+
+Rozrachunki z tyt p VAT						Rozrachunki z odb.																					
+			/2395,68(2b)				(2c)1218	/	
+			/57,96(2c)
+
+zysk
+635*4.80
+
+przychody - koszty
+
+	701   10668,00
+-	711		7620
+--------------------
+wynik			3048
+sprzedarzy
+
+------------------------------------------------------------------------------------------------------------------
+164 ksiazka
+
+1.faktura vat - zakup metrialow
+a)netto 16320				
+b)vat 23%	3753,60
+c)brutto	20073.60
+2.PZ przyjecie materialow do magazynu z przeznaczeniem na produkcje 16320
+3.RW wydanie materiałow z magazynu na produkcje 15744
+4.PW przyjecie wyrobow gotowych do magazynu	 z produkcji	54000
+5.Faktura Sprzedarz wyrobow gotowych do hurtowni IZA(przelew)
+a) netto 20000
+b) VAT 23%
+c) wart brutto 24600
+6.WZ wydanie wyrobow gotowych 12000(ta sama cena co w PW wazne)
+
+
+Rozachunki z dostawcammi 			Rozliczenie zakupu	(					Materiały
+		/20073,60(1c)		(1a)	16320	/16320				(2)	16320		/15744(3)
+
+	Rozachunki z tyt pod VAT					Koszty działalnosci podstawowej
+(1b)3753,60	/4600(5b)						sp x		/	54000(4)	
+											3)15744	/
+
+Przych ze sprzedarzy						Rozrachunki z odb					
+			/20000(5a)					(5c)24600/									
+
+	Wyrob gotowy 						Koszt  sprzed wyr got
+(4)54000/12000							(6) 12000/	
