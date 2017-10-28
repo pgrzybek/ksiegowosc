@@ -1,0 +1,123 @@
+	75% na zaliczenie egzaminu
+
+	R-ka bierzacy			*Uslugi obce					Kap podstawowy
+	-------------		(4a)	200  /200(13c)						/50000
+sp	50000 /350(5)
+(3)	10000/220(11b)
+(11a)150/
+						
+						Koszty Finansowe 					Kredyt bankowy
+					(5)	350		/350(13c)							/10000(3)
+
+
+				Rozliczenia zakupu							*Uslugi obce
+				(1a)	20000	/	20000(2)			(4a)200	/200(13c)
+												
+																*Wynagrodzenia
+															(6)	2600/2600(13c)	
+	Towary													
+(2)20000/10000(9)
+																*Ubezpiecz społeczne
+															(7) 530	/530(13c)
+															
+Pozostałe przychody operacyjne								Przychod ze sprzedarzy towarow
+(13d)150	/150(11a)										(13a)	18000	/18000(8c)
+
+															Rozrachunki z odbiorcami
+Rozrachunki z dostawcami									(8a)22140	/
+			/24600(1c)
+			/246(4c)											*Pozostałe koszty rodzajowe
+															(10)220		/	220(13c)	
+
+	Rozrachunki z tyt. p VAT
+(1c)	4600	/4140(8b)
+(4b)	46		/
+
+Rozliczenia z tyt wynagrodzen
+			/2600(6)
+
+Rozliczenia kosztów			Koszty handlowe						Podatek dochodowy
+			/200	(4)		200	/	3550(13e)					(12) 808/808(13f)
+			/2600	(6a)	2600/
+			/530	(7a)	530	/
+			/220	(10a)	220	/								Rozliczenia z ZUS
+																		/530(7)				
+
+
+						Wynik finansowy							Rozr z budrzetem				
+						(13b)	10000/18000(13a)						/808(12)
+						(13c)	200/150(13d)
+						(13c)	2600/							Wartosci sprzedanych towarow	
+						(13c)	530	/								10000	/10000(13b)
+						(13c)	220/
+						(13c)	350/
+						(13f)	808/
+
+4250*19%=807,50  ~808(zaokragalmy zawsze podatek)
+
+
+
+Numer operacji 	Kwota operacji					konto
+												Wn 	/	Ma
+1.				20000							300	/
+				460								225	/	
+				24600								/210
+2.				20000							330/300
+3.				10000							131	/138
+4.				200								402/
+				46								225/
+				246								/210
+				200								503/490	
+5.				350								751	/131
+6.				2600							404/231
+				2600							503	/490
+7.				530								405/221
+				530								503/490
+8.				18000								/730
+				4140								/225	
+				22140							200/	
+
+
+
+
+
+
+
+
+13	.		18000								730/860
+			10000								860/731
+			200									860/731
+			2600								860/404
+			530									860/405
+			202									860/409
+			150									760/860
+			350									860/751
+			808									860/870
+			200									490/503
+			2600								490/503
+			530									490/503
+			220									490/503													
+
+1 a +
+2 a +
+3 c +
+4 a +
+5 c +
+6 d +
+7 b +
+8 d +
+9 b +
+10 b +
+11 c - d
+12 c +
+13 d +
+14 c +
+15 d +
+16 b - d
+17 b +
+18 c +
+19 b - c
+20 d - c
+21 c +
+22 a - c
+

@@ -106,7 +106,7 @@ Kapital zakl 50000
 a) wart netto 20000
 b) VAT 23%
 c)wart brutto 24600
-2.PZ przyjeto towary do magazy 24000
+2.PZ przyjeto towary do magazy 20000
 3. Zaciagnieto kredyt bankowy 10000
 4. Faktura za transport zakupionych towarow 
 a) wart netto 200
