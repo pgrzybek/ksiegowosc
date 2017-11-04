@@ -54,3 +54,20 @@ Amortyzacja= 180000*200= 36000
 	36000	
 Am=	-------- = 3000
 	12
+
+Przed sporządzeniem bilansu zamknięcia należy zdefiniować pozycje aktywów i pasywów w sprawozdaniu finansowym.
+Definiując konta aktywów w bilansie należy je przypisać saldami winien nastepujaco:
+środki trwałe
+saldo winien-saldo ma umożenie
+rozrachunki z tytułu VAT
+saldo winien- należności
+saldo ma- pasywa zobowiazania
+rozrachunki z budrzetami
+saldo ma- saldo winien do pozycji zysk strata netto
+saldo winien do aktywow
+saldo ma do pasywow
+tak samo rozrachunki z odbiorcami
+501 koszty działalnosci podstawowej do aktywow do połprodukty i produkty w toku
+Po za tym wszystkie konta aktywne definiujemy saldo winien do aktywow.
+A  wszystkie konta pasywne saldo ma do pasywów.
+

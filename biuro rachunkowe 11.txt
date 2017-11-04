@@ -1,0 +1,59 @@
+Poprawianie błędów księgowych przy użyciu storna
+
+Przy prowadzeniu ewidencji może dojśc do sytuacji w której operacje gospodarcze błednie zaksiegowane.
+Jeżeli blędy zostaną wczeniej wykryte w tym samym momencie najcześciej następuje ich przekreślenie obok parafa osoby dokonującej poprawienie błędów.Jednak może się zdarzyć sytuacja kiedy bład zostaje wykryty dopiero po pewnym czasie wtedy poprawienie tego błędy następuje za pomocą tzw storna czyli zapisu korygującego który jest oparty na zasadzie podwójnego zapisu.W praktyce stosowane są dwa rodzaje storna: 
+a) czarne 
+b) czerwone
+
+Możemy wyróżnić storno czarne całkowite które polega na dokonaniu zapisu korygującego po przeciwnych stronach kont na których popełniono błąd a następnie należy zaksięgować zapis poprawny.
+
+Przykład 
+Operacje
+Odbiorca wpłacił należnośc do kasy 3000 zł zaksięgowano błędnie zamiast zwiekszyć konto kasa zwiększono rachunek  bankowy.
+
+	Rach bankowy 					Rozrachunki z odbiorcami
+x		/3000(2) 					x	/3000(1)
+1) 3000	/		storno czarne			/3000(3)
+
+	Kasa
+x		/	
+(3)3000/
+
+1.Błedne ksiegowanie
+2.Poprawienie błedu przy użyciu storna czarne całkowitego
+3.Poprawienie błedu
+
+Storno czarne częściowe polega na tym że poprawienie błędu może nastąpić na zaksięgowaniu operacji na 1 zaksięgowanuym koncie albo kwoty niższej wyższej od dokonanej operacji.
+
+Operacje powyższą poprawiamy przy użyciu storna czarnego częściowwego.
+
+
+	Rach bankowy 					Rozrachunki z odbiorcami
+x		/ 3000(2)								x	/3000(1)
+1) 3000	/								
+
+	Kasa
+x		/	
+(2)3000/
+
+Poprawienie błędu przy użyciu storna czarnego jest w praktyce niestosowane ze względu na sztuczne zawyżenie obrotów.
+a)czarne
+b)czerwone- zapis korygujący dokonywany na tych samych kontach co popełniony błąd w tych samych kwotach po tych samych stronach ale na czerwono(ze znakiem ujemnym) 
+
+Przykład
+Zakupiono materiały za gotówke 4000 zl zaksiegowano błednie zamiast zwiekszyć konto materiały zwiększono konto towary.
+
+	Towary  									kasa
+(1)	4000	/								x	/ 	4000(1)	
+	-----  	/		storno czerowne  			/	--------	
+	|4000|	/		----------------->				| 4000 | (2)	
+	----- 											-------
+												/	4000(3)
+
+		Materiały
+(3)	4000/
+
+
+1.Błedne księgowanie 
+2.Poprawienie błędu przy użyciu storna czerwonego
+3.Prawidłoweksięgowanie

@@ -1,0 +1,122 @@
+Salda pocz 
+kasa 		 	5000
+R-k bierzacy 	20000
+Środki trwałe 	25000
+Kapitał podst 	47000
+Kredyty bankowe 3000
+
+
+1.KW- zaliczka dla pracownika na podróz służbowa 300
+2.FA+PZ zakup towarów
+a) wart brutoo 15000
+b)
+c)
+3.Wb zapłacono odsetki od kredytu 150
+4.Lista płac  wynagrodznei brutto pracowników hadlowych 2100
+5.Rachunek kosztów podrózy służbowej 230
+6.FA sprzedarz towarow
+a) wart netto 18000
+b)
+c)
+7.WZ- wydano towary odbiorcy -12000
+8.PK - amortyzacja śr trwałych wykorzystanych w działalności handlowej 450
+9.Fa -zarozmowy telefoniczne
+a) wart netto 110
+b)
+c)
+10.Pk-ustalono wynik fin
+
+
+
+śr trwałe			Umorzenie					Kasa				R-k bierzacy
+25000/					/450(8)					5000/300(1)			20000/150(3)
+
+Kredyty bankowe		Rozrachu z odb			Rorz z dost				Rozr z tyt p VAT		
+		/3000		(6c)22140	/					/18450(2c)		(2b)3450	/4140
+													/135,30(9c) 	(9b)25,30	/
+
+
+Rozr z tyt wyn				Poz rozr z prac			Rozl zak					Towary						
+		/2100(4)			(1)300	/230(5)			 (2a)15000/15000(2d)	(2d)15000/
+
+
+*Amort						*Usl obce					*Wynagr							*Poz kty rodz				
+(8)	450	/450(11c)				(9a)100	/				(4)2100/2100(11e)				(5)	230	/230(11c)
+
+Rozr z budz				Przych z ze sprzed towarow						Wart sprzed t w cenie zaK
+		/562(10)					/18000(6a)							(7)12000	/12000(11b)
+
+
+Kty fin						Kap podst 									WF
+(3)150	/150(11d)						/47000 sP  					(11b)	12000/18000(11a)
+																	(11c)	2890/
+																	(11d)	150/
+																	(11e)	562/
+																	------------------
+																			13602/18000
+																Sk zysk		2380	
+
+Pod doch																
+(10)562 /562(11c)
+																		Podstawa 					
+																		2960,00	
+																		562,00
+
+		
+Przedsiebiorstwo produkcyjne ewidencja kosztów tylko w 5
+
+Dane w 20171104_103022.jpg przykład 2
+
+śr trwałe				Kasa				R-k bierzacy			Rozr z odbiorcami
+Sp 20000 /			Sp 5000/				20000/					(6c)14760/
+											(2)80/
+
+Rozrachu z odb			Rozr za budrzetem					Rorz z ZUS			Rozr z tyt p VAT		
+	/5535(9c)						/1155,00						/300(4)			(9b)1035/2760(6b)	
+
+Rozr z tyt wyn				Rozl niedoborow i szkod			Rozl zak						Materialy						
+	/2200(3)						(8)	300/				(9a)4500/						Sp 7000	/5000(1)
+																							(9d)4500/300(8)
+
+K dzial. podst			Wyroby gotowe		Przych z ze sprzed towarow		Koszt sprzed wyrobow gotowych
+(1)5000/6800(5)			(5)6800/6000(7)			(11a)	12000/12000(6a)			(7)6000/6000(11b)
+(3)2200/
+(4)300/
+
+Przych fin						Kap zakl 			Wynik finansowy			Podatek dochody
+(11c)80	/80(2)						/520000 sP   	(11b)6000/12000(11a)				(10)1155,00/1155(11d)				
+													(11d)1155/80(11c)
+
+Zasada podwójnego zapisu -zawsze musza byc  wypelnione przeciwne strony w  2 kontach
+
+
+Rozl niedoborow i szkod - konto brakow w inwentarzu
+
+Handlowe
+
+Salda wybranych kont
+Rachunek bierzacy 40000
+Pozostale rozrachunki z pracownikami naleznosc od A.Nowaka (300)
+
+1.Faktura zakup krzesel ogrodowych zaplata pozniej 
+a)wart netto 300 stuk po 50 zl
+b)wat 23%
+c)wart brutto
+2.PZ- przyjeto zakupione krzesla ogrodowe do magazynu 300 sztuk po 50zl
+3.Faktura za zakupione przez A.Nowaka materiały biurowe przekazane do ksiegowosci
+a)wart netto 250 zl
+b) VAT 23%
+c)wart brutto
+4.Zapłata z rachunku bankowego za zakupione krzesła ogrodowe ....(wart brutto z 1)
+5.Sprzedarz krzesel ogrodowych zaplata w terminie pozniejszym 
+a)30 szt  po 70 zl
+b)
+c)wart brutto
+6.WZ wydanie odbiorcy z magazynu sprzedanych krzesel...(wart brutto z 5)
+7.Wypłata z kasay A. Nowakowi gotówki za zakupione materiały biurowe 
+
+Ustal wynik ze sprzedarzy towarow
+
+
+kasa 
+x	/	

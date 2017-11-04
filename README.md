@@ -1,6 +1,7 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Zdjecia i inne duze pliki sa na dysku google
+
 
 ### What is this repository for? ###
 
