@@ -1,36 +1,51 @@
 Okpol
 
-	Srodki trwałe
-158000/
+	Srodki trwałe 	(D)	
+158000/ 
 
-Umorzenie srodkow trwałych
+Umorzenie srodkow trwałych(D)
 	/36000
 	/2000(13)
+------------------
+	/38000		
 	
-Materiały
+Materiały	(D)
 	12600/14600(2)
 (1a)6780/
+------------------
+	19380/14600
 
-Rachunek bierzacy
-34200/
+Rachunek bierzacy	(D)
+	 34200/9327,40
+(17c)63277,40/8908(10)
+			/6771,30(12)	
+	--------------------
+	97477,4/25006,7		
 
-Kasa
+Kasa		(D)
 950/147,60(4a)	
 	/250(7)
+---------------
+950/397,60
 
 Rozrachunki z odbiorcami
-odb A
-1600/
+	 1600/63197,40
+(15c)63197,40/
+-----------------------
+	64797,4   /	63197,40 
 
-Rozrachunki z dostawcami
-odb B
+Rozrachunki z dostawcami (D)
 (3)1000/2320
 (8b)8339,40	/8339,40(1c)
+-----------------------
+9339,40/	10659,40		
 
 Kredyty bankowe
 	/75730
+------------
+	/75730	
 
-Koszty działąlności podst 
+Koszty działalności podst 
 6700/36700(14)
 (2)14600/
 (4a)120/
@@ -38,37 +53,52 @@ Koszty działąlności podst
 (6)250/
 (9)13000/
 11)2679,30/
+-----------------------
+17037,3		/36700		
 
 Kapitał zakładowy
 		/100000
-
-Pozostałe przychody operacyjne
-			/1000(3)
+--------------------
+		100000
 
 	Rozrachunki z tyt p VAT
-(1b)1559,40	/
+(1b)1559,40	/11817,40(15b)
 (4b)27,60	/
+--------------------------
+	1559,40	/11817,40
 
 Zuzycie materiałow i energii
-(2)14600/
+(2)14600/14720(19a)
 (4a)120/
+-----------------------
+14720/14720	
 
 Pozostałe przychody operacyjne
-			/1000(3)
+(20b)	1000/1000(3)
+-------------------------------
+		1000/1000
 
 Pozostałe rozrachunki publiczno prawne
-8a)		988	/988(5)
+8a)	988	/988(5)
+----------------
+	988	/988
 
 Pozostałe rozrachunki z pracownikami
-(7)			250/250(6)	
+(7)	250/250(6)
+--------------
+	250/250(6)
 
 Rozlicznie kosztów
-		/14600(2)
-		/120(4a)
-		/988(5)
-		/250(6)
-		/13000(9)
-		/2679,30(11)
+(19a)14720	/14600(2)
+(19b)988	/120(4a)
+(19c)250	/988(5)
+(19d)13000	/250(6)
+(19e)2679,30/13000(9)
+(19f)2000	/2679,30(11)
+			/2000(13)
+---------------------
+	33637,3/33637,3
+
 
 Rozrachunki z tytułu wynagrodzeń
 (9a)1782/13000(9)
@@ -76,39 +106,94 @@ Rozrachunki z tytułu wynagrodzeń
 (9c)1100/
 (9d)200/
 (10)8908/
+----------------
+13000/13000
+
 Podatki i opłaty
-(5)988/
+(5)988/988
+-------------
+988/988
 
 Wynagrodzenia
-(9)13000/
+(9)13000/13000(19d)
+--------------------
+13000/13000
 
 Rozrachunki z ZUS
 (12a)4461,30/1782(9a)
 (12a)1010/1010(9b)
 		/2679,30(11)
+---------------------
+	5471,3/5471,3
+
 Pozostałe koszty rodzajowe
-(6)250/
+(6)250/250
+-------------
+	250/250
 
 Rozrachunki z budzetami
-(12d)	1100		/1100(9c)
+(12d)	1100/1100(9c)
+			/3000(18)
+-------------------------
+		1100/4100
 
 Pozostałe rozrachunki
 (12c)	200	/200(9)
+--------------------
+		200	/200
 
 *Ubezpieczenia społeczne i inne swiadczenia
 11)2679,30/
+-------------------
+	2679,30/
+
 
 	Amortyzacja
 13)2000/
+---------------------
+	2000
 
 Wyroby gotowe
-(14)36700/
+(14)36700/36700(16)
+---------------------
+	36700/36700
 
 Wynagrodzenia
 (9)13000/
+--------------
+	13000/
 
-Skladka do zP
+Skladka do KZP
 12c)200/200(9d)
+	-------------
+	200/200	
+
+Przychody ze sprzedarzy wyrobow gotowych
+	(20a)	51380	/51380(15a)
+			--------------------
+			51380	/51380
+
+Koszt sprzedaży wyrobow gotowych
+(16)36700/36700(21a)
+--------------------
+	36700/36700
+
+Przychody finansowe
+(20c)	80	/80(17b)
+		------------
+		80	/80
+
+Podatek dochodowy
+(18)3000/3000(21b)
+	-------------
+	3000/3000
+
+Wynik finansowy
+(21a)36700/51380(20a)
+(21b)3000/1000(20b)
+		/80(20c)
+	---------------
+	39700/ 51460	
 
 
 										Aktywa			Pasywa
@@ -141,3 +226,38 @@ b)drewna								401				310
 										501				490
 c)razem									401				310
 										501				490
+
+
+Przychody ze sprzedarzy wyrobow gotowych 	51380
+- Koszt sprzedanych wyrobow gotowych	 	36700
+Rowna sie wynik ze sprzedarzy				14680	
++ pozostałę przychody operacyjne 			1000
+-pozostałe koszty operacyjne				0
+= Wynik z dzialalnosci operacyjnej			15680
++ przychody finansowe						80
+-koszty finansowe							0
+= wynik finsowy brutto						15760
+- podatek dochodowy							3000
+= wyknik finansowy netto(zysk netto	)		12760
+
+										 Obroty	  				Salda	
+							wn			ma 			wn 		ma
+Aktywa
+Srodki trwale 				12000	/	0		|	158000/	
+Materiały					19380	/	14600	|	4780/	
+
+Srodki pieniezne na 
+w kasie i na rachunkach		98427,4	 /   25404,3	|73023/							
+Naleznosci	od 
+pozostałych jednostek		64797,4   /	63197,40 |   1600/
+Produkcja w toku			17037,3		/36700		|		/19662,7		
+
+Pasywa
+Zobowiazania: 
+
+Kredyty i pozyczki 						/75730	|
+Z tytułu dostaw i usług														
+Kapitał podstawowy
+z tytułu wynagrodzen										
+inne
+											
