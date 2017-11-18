@@ -1,0 +1,143 @@
+Okpol
+
+	Srodki trwałe
+158000/
+
+Umorzenie srodkow trwałych
+	/36000
+	/2000(13)
+	
+Materiały
+	12600/14600(2)
+(1a)6780/
+
+Rachunek bierzacy
+34200/
+
+Kasa
+950/147,60(4a)	
+	/250(7)
+
+Rozrachunki z odbiorcami
+odb A
+1600/
+
+Rozrachunki z dostawcami
+odb B
+(3)1000/2320
+(8b)8339,40	/8339,40(1c)
+
+Kredyty bankowe
+	/75730
+
+Koszty działąlności podst 
+6700/36700(14)
+(2)14600/
+(4a)120/
+(5)988/
+(6)250/
+(9)13000/
+11)2679,30/
+
+Kapitał zakładowy
+		/100000
+
+Pozostałe przychody operacyjne
+			/1000(3)
+
+	Rozrachunki z tyt p VAT
+(1b)1559,40	/
+(4b)27,60	/
+
+Zuzycie materiałow i energii
+(2)14600/
+(4a)120/
+
+Pozostałe przychody operacyjne
+			/1000(3)
+
+Pozostałe rozrachunki publiczno prawne
+8a)		988	/988(5)
+
+Pozostałe rozrachunki z pracownikami
+(7)			250/250(6)	
+
+Rozlicznie kosztów
+		/14600(2)
+		/120(4a)
+		/988(5)
+		/250(6)
+		/13000(9)
+		/2679,30(11)
+
+Rozrachunki z tytułu wynagrodzeń
+(9a)1782/13000(9)
+(9b)1010/
+(9c)1100/
+(9d)200/
+(10)8908/
+Podatki i opłaty
+(5)988/
+
+Wynagrodzenia
+(9)13000/
+
+Rozrachunki z ZUS
+(12a)4461,30/1782(9a)
+(12a)1010/1010(9b)
+		/2679,30(11)
+Pozostałe koszty rodzajowe
+(6)250/
+
+Rozrachunki z budzetami
+(12d)	1100		/1100(9c)
+
+Pozostałe rozrachunki
+(12c)	200	/200(9)
+
+*Ubezpieczenia społeczne i inne swiadczenia
+11)2679,30/
+
+	Amortyzacja
+13)2000/
+
+Wyroby gotowe
+(14)36700/
+
+Wynagrodzenia
+(9)13000/
+
+Skladka do zP
+12c)200/200(9d)
+
+
+										Aktywa			Pasywa
+
+										178050 			178050
+w tym:
+Aktywa
+										wn				ma
+Srodki trwale 							132000			
+Materiały								12600			
+Srodki pieniezne na 
+w kasie i na rachunkach					35150						
+Naleznosci	od pozostałych jednostek	1600	
+Produkcja w toku						6700						
+Pasywa
+Zobowiazania krotkoterminowe							2320
+Kredyty bankowe											75730											
+Kapitał podstawowy										100000
+
+PZ zakup szyb							wn				ma
+wart netto			6780				310		
+podatek VAT			1559,40				225
+wart brutto			8339,40								210
+
+RW wydanie z magazynu
+a)szyb				4600				401				310
+										501				490
+
+b)drewna								401				310
+										501				490
+c)razem									401				310
+										501				490

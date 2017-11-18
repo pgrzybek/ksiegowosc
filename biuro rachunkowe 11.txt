@@ -54,6 +54,7 @@ Zakupiono materiały za gotówke 4000 zl zaksiegowano błednie zamiast zwiekszy�
 (3)	4000/
 
 
+
 1.Błedne księgowanie 
 2.Poprawienie błędu przy użyciu storna czerwonego
 3.Prawidłoweksięgowanie

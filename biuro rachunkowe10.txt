@@ -57,10 +57,8 @@ Am=	-------- = 3000
 
 Przed sporządzeniem bilansu zamknięcia należy zdefiniować pozycje aktywów i pasywów w sprawozdaniu finansowym.
 Definiując konta aktywów w bilansie należy je przypisać saldami winien nastepujaco:
-środki trwałe
-saldo winien-saldo ma umożenie
-rozrachunki z tytułu VAT
-saldo winien- należności
+środki trwałe :saldo winien -saldo ma konto umorzenie
+rozrachunki z tytułu VAT saldo winien- należności
 saldo ma- pasywa zobowiazania
 rozrachunki z budrzetami
 saldo ma- saldo winien do pozycji zysk strata netto

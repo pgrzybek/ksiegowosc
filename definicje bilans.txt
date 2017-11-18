@@ -1,0 +1,36 @@
+Sprawozdanie (po lewej) -> Bilans
+Połączenie sald kont stworzonych z bilansem.
+Aktywa mają salda winien pasywa salda ma.
+Wyjątkiem jest saldo koryujące umorzenie środków trwałych które ma saldo -Ma
+263
+
+Aktywa
+Konto					Bilans 						Saldo
+----------------------------------------------------------
+Środki trwałe			Środki trwałe				Wn+
+Umorzenie środkow 		Środki trwałe				-Ma	
+Kasa					Środki pienieżne w kasie	Wn+
+						i na rachunkach
+Rachunek bierzący		Środki pienieżne w kasie	Wn+
+						i na rachunkach				
+Rozliczenia				Materiały					Wn+
+Materiały				Materiały					Wn+
+Koszty dziłalności		Półprodukty i Półprodukty  	Wn+
+podstawowej				w toku
+Towary					Towary 						Wn+
+Rozrachunki z odb		Należności od pozostałych	Wn	
+						a) z tytułu dostaw i usług
+						do 12 miesiecy	
+Rozrachunki z dost		Należności od pozostałych	Wn	
+						a) z tytułu dostaw i usług
+						do 12 miesiecy
+
+Pasywa
+
+Rozrachunki z odb		Zobowiązania z tytułu		Ma+
+						dostaw i usług 
+Rozrachunki z dostaw 	Zobowiązania z tytułu		Ma+
+						dostaw i usług 		
+
+Rozliczenia zakupu		Zobowiązania z tytułu		Ma+
+						dostaw i usług 

@@ -118,5 +118,21 @@ c)wart brutto
 Ustal wynik ze sprzedarzy towarow
 
 
-kasa 
-x	/	
+kasa 			Rachunek bierzacy		
+x	/7,50		40000/	
+
+		Pozostałe 					Zuzycie materiałów
+		rozrachunki z prac 			3a)250/
+	sp.	300/307,50(3c)
+		7,50/	
+
+		Rozrach z tyt. p. VAT
+	3b)	57,50/		
+
+
+Przych ze sprzedarzy 		2100
+wart sprzedanych towarow	1500
+marza zrealizowana			600
+koszty handlowe 			250	
+Wynik ze sprzedarzy towarow	350
+
