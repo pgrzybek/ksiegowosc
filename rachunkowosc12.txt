@@ -1,0 +1,158 @@
+zad1
+a - (d)
+zad2
+d
+zad3
+c+
+zad4
+b+
+zad5
+
+zad6
+c- (a)
+zad7
+b-(a)
+zad8
+c-(a)
+zad9
+c+
+zad10
+b+
+zad11
+d+
+zad12
+d-(a)
+zad13
+b+
+zad14
+d+
+zad15
+
+zad16
+b
+zad17
+
+zad18
+c-(a)
+
+zad19
+
+zad20
+
+zad21
+
+zad22
+d+
+
+1.
+FZ+PZ
+
+		wn		ma
+15000	330
+3450	225
+18450			210	
+
+2.Wb/KP
+
+3200	100		131
+
+3. FZ+KW
+
+1480			100
+340,40			225
+1820,40	310
+
+4.FZ+OT
+36000	010
+8280	225
+44280			138
+5.Rachunek+KW
+320		409		100
+		503		490
+6.KW
+500		403		010
+
+7.FZ+PZ
+1200	310
+276		225
+1476			210
+
+8.WB
+a)18450	210		131
+
+b)1476	210		131
+
+
+9.FZ		
+6360 			310
+142,80			225			
+7822,80	200					
+
+10. Wz
+a)18450 731		310
+b)1476	731		310
+
+11. WB
+a)1800	138		131
+b)300	138		131
+
+12.PK
+				310
+
+
+|Srodki trwałe	|	Kasa		|  Rk-bierzacy 		  |Kredyty-bankowe		|Rozrach z odb|
+|4a)36000/		|(2)3200/1820(3)|sp	8000/3200	(2)   |(11a)1800/44280(4b)	|(9d)7822,80/ |
+|				|		/320(5)	|(13)1000/19926(8)	  |
+						/500(6)	|		/2000(11)	  |
+				----------------
+							
+|Rozrach z dost		|Rozrach z tyt pod VAT	| Towary			|Usługi Obce		|Podatki i opłaty|
+|(8)19926/18450(1c)	|1b)3450/1462,80(9c)	|1a)15000/3180(10)	|3a)1480/1480(14a)	|(6)500	/500(14c) |	
+|	    /1476(7c)	|3b)340,40/				|(7a)1200/2200(12)	|						|				 |
+					|4b)8280/				|
+					|7b)276	/		
+								
+|Poz k. rodzajowe	|	Rozl kosztow	|K handlowe			|Przych z sprz t 		|Wart sprzed tow|
+|5)320	/320(14b)	|(14a)1480/1480(3a)	|(3a)1480/2300(16b)	|(15a)6360/6360(9a)		|	(10)3180/3180(16a)|
+					|(14b)320/320(5)	|(5)320/			|
+					|(14c)500/500(6)	|(6)500/			|
+
+|K finansowe		|Pozo przych op 		|Poz k. op.			|Kap zakł.	| Wynik fin|
+|(11b)300/300(16c)	|(15b)	1000/1000(13)	|(12)2200/2200(16d)	|	/80000  |(16a)3180/6360(14a)
+																			|(16b)2300/1000(14b)	
+																			|(16c)300/
+																			|(16d)2200/	
+
+Zestawienie
+
+						Obroty 					Salda
+					wn 			ma			Wn 			ma	
+Srodki trwałe		36000					36000
+Kasa				3200		2640		560					
+Rk-bierzacy			9000		25126					16126
+Roz z dost			19926		19926		0			0		
+Rozr z odb			7822,80					7822,80					
+Rozr z tyt VAT		12346,4					12346,4	
+Towary				16200					16200
+Usługi Obce  		1480		1480		0			0	
+Podatki i opłaty	500			500			0			0
+Poz k. rodzajowe	320			320			0			0
+Rozl kosztow		2300		2300		0			0
+K handlowe			2300		2300		0			0	
+Przych ze sprz t.	6360		6360		0			0	
+Wart sprz Tow 		3180		3180		0			0
+K  finansowe		300			300			0			0	
+Poz przych op.		1800		1800		0			0	
+Poz k. op. 			2200		2200		0			0	
+Kap zakł						80000					80000
+Wynik finansowy		7980		7360		620
+											-----------------
+											73549,2								
+
+
+
+
+Obroty 			206215,20
+Saldo(suma) 	122480
+Suma Bilansowa	121860
+

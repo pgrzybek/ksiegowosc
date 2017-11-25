@@ -1,0 +1,47 @@
+
+nr	dokument 	  data	kwota 		wn		ma
+
+1	FS 	1/12/2017 01.12	42920				730
+						9871,60				225
+						52791,60		201
+
+2	Wz	1/12/2017 01.12 12800				330-01
+						16800				330-02
+						29600		731	
+
+3 	LP	1/12/2017 31.12	2900		404		231
+						397,59		231		224
+						225,22		231		224
+						190,00		231		221
+
+4	WB 21		  31.12	52791,60	131		201	
+				  		2087,19		231		131
+				  		12			131		750
+
+5	NO 1/12/2017 31.12	266,13		201		750			
+
+
+
+
+NO-nota odsetkowa
+LP-lista płac
+
+
+								Ubezpieczenia spoleczne
+								/			|			\
+
+emerytalne					rentowe				chorobowe			wypadkowe
+19,52%						8%					2,45%				1,8%
+|	
+|												pracownik 			pracodawca
+9,76%		9,76			1,5%		6.5		
+pracownik	pracowdawca		pracownik	pracodawca
+
+
+Ponadto pracowdawca jest obciazony funduszem pracy 2.45 przeznaczony jest na wypłate zasiłku dla bezrobotnych FGSP(fundusz gwrantowych śiwadczeń pracowniczych 0.1%) przeznaczonych jest na wypłąte zaległych wynagrodzen pracownikow upadajacych firm. 
+Reasumujac  pracownik obciążony jest (9.76%+ 1.5+ 2.46= 13.71%)
+Pracodawca 9,76+6,5+1,8+2,45+0,1=20.61%.
+			
+			52791,60 x0,08	x23
+Odsetki=	-------------------- = 266,13
+				365

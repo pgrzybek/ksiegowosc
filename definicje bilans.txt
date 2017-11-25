@@ -34,3 +34,5 @@ Rozrachunki z dostaw 	Zobowiązania z tytułu		Ma+
 
 Rozliczenia zakupu		Zobowiązania z tytułu		Ma+
 						dostaw i usług 
+
+Wynik Finansowy			Zysk strata netto			Ma+  Wn-				

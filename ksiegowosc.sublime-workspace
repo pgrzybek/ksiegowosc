@@ -83,7 +83,7 @@
 			"file": "rachunkowosc10.txt",
 			"settings":
 			{
-				"buffer_size": 3474,
+				"buffer_size": 3788,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -99,38 +99,21 @@
 			}
 		},
 		{
-			"file": "rachunkowosc.txt",
+			"file": "biuro rachunkowe 13.txt",
 			"settings":
 			{
-				"buffer_size": 4945,
-				"encoding": "UTF-8 with BOM",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "biuro rachunkowe 12.txt",
-			"settings":
-			{
-				"buffer_size": 0,
+				"buffer_size": 1134,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "biuro rachunkowe10.txt",
+			"file": "definicje bilans.txt",
 			"settings":
 			{
-				"buffer_size": 2964,
+				"buffer_size": 1156,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 506,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -186,8 +169,12 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Piotr/Desktop/dieta woreczek żółciowy.txt",
+		"/D/ksiegowosc słuchacz/biuro rachunkowe 12.txt",
+		"/D/ksiegowosc słuchacz/rachunkowosc11.txt",
 		"/D/ksiegowosc słuchacz/biuro rachunkowe10.txt",
+		"/D/ksiegowosc słuchacz/README.md",
+		"/D/ksiegowosc słuchacz/definicje bilans.txt",
+		"/C/Users/Piotr/Desktop/dieta woreczek żółciowy.txt",
 		"/D/ksiegowosc słuchacz/rachunkowosc9.txt",
 		"/D/ksiegowosc słuchacz/rachunkowosc8.txt",
 		"/D/ksiegowosc słuchacz/rachunkowosc6.txt",
@@ -238,6 +225,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"przychod fina",
 			";\n",
 			"starteddrawing",
 			"mySide1",
@@ -262,7 +250,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -271,15 +259,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3474,
+						"buffer_size": 3788,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								965,
-								965
+								3507,
+								3507
 							]
 						],
 						"settings":
@@ -287,10 +275,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1941.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -316,7 +304,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 276.0,
+						"translation.y": 50.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -324,49 +312,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "rachunkowosc.txt",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 4945,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "biuro rachunkowe 12.txt",
+					"file": "biuro rachunkowe 13.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1134,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								102,
+								102
 							]
 						],
 						"settings":
@@ -381,60 +339,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "biuro rachunkowe10.txt",
+					"buffer": 3,
+					"file": "definicje bilans.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2964,
+						"buffer_size": 1156,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2554,
-								2554
+								1152,
+								1152
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 681.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 506,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -521,7 +450,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 271.0,
+	"side_bar_width": 219.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
