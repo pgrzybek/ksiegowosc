@@ -87,34 +87,6 @@
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
-		},
-		{
-			"file": "biuro rachunkowe 11.txt",
-			"settings":
-			{
-				"buffer_size": 2254,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "Poprawianie błędów księgowych przy użyciu storna"
-			}
-		},
-		{
-			"file": "biuro rachunkowe 13.txt",
-			"settings":
-			{
-				"buffer_size": 1134,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "definicje bilans.txt",
-			"settings":
-			{
-				"buffer_size": 1156,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
 		}
 	],
 	"build_system": "",
@@ -169,11 +141,15 @@
 	],
 	"file_history":
 	[
+		"/D/ksiegowosc słuchacz/biuro rachunkowe 11.txt",
+		"/D/ksiegowosc słuchacz/biuro rachunkowe 13.txt",
+		"/D/ksiegowosc słuchacz/definicje bilans.txt",
+		"/D/ksiegowosc słuchacz/rachunkowosc12.txt",
+		"/D/ksiegowosc słuchacz/ang.tx",
 		"/D/ksiegowosc słuchacz/biuro rachunkowe 12.txt",
 		"/D/ksiegowosc słuchacz/rachunkowosc11.txt",
 		"/D/ksiegowosc słuchacz/biuro rachunkowe10.txt",
 		"/D/ksiegowosc słuchacz/README.md",
-		"/D/ksiegowosc słuchacz/definicje bilans.txt",
 		"/C/Users/Piotr/Desktop/dieta woreczek żółciowy.txt",
 		"/D/ksiegowosc słuchacz/rachunkowosc9.txt",
 		"/D/ksiegowosc słuchacz/rachunkowosc8.txt",
@@ -250,7 +226,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -275,95 +251,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1941.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "biuro rachunkowe 11.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2254,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1961,
-								1961
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Poprawianie błędów księgowych przy użyciu storna",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 50.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "biuro rachunkowe 13.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1134,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								102,
-								102
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 486.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "definicje bilans.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1156,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1152,
-								1152
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -450,7 +341,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 219.0,
+	"side_bar_width": 145.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
