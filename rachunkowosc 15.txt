@@ -1,0 +1,36 @@
+Pk nr 4
+a) wynagrodzenie brutto 4592
+b) składki na ubezpieczenie społeczne i ubezpieczenie zdrowotne 986,19
+c) należna zaliczka na podatek dochodowy	274
+d)	KZP i PZU								55
+Razem										1315,19
+
+2. Pk nr 24
+Składki ZUS obciążające pracodawce
+4592x20,61%	=	946,41
+Rozliczenie kosztów w układ funkcjonalny
+4592+946,41=5538,41
+Wyciag bankowy potwierdzajacy przelew
+76
+Robowiazań wobec ZUS
+1932,60
+Zobowiazanie wobec urzedu skarbowe
+274
+Pozostałe zobowiązania
+55
+d)wynagrodzenia dla Janiny Wolk 1417,34
+e)wynagrodzenia dla Elzbiety Nosowskiej 1847,59
+f)5538,41 
+PEK
+1. lp dowod								wn 		ma				sumy
+																pojedyncze	ogólne
+	1	LP3	wynagrodzenie brutto		404		231				4592		4592
+		LP3	skl ubezp zdow i społ		231		221				986,19
+		LP3	nal. zal. na pod. doch.		231		220				274
+		LP3	potracenie na KZP PZU		231		240				55			1315,19
+		LP3	składki ZUS prac.			405		221				946,41		946,41	
+		LP	rozliczenie kosztow			501		490				5538,41		5538,41
+																12392,01	
+sporządził M Gołąb 
+			J Sowa
+Załącznik Lista płac

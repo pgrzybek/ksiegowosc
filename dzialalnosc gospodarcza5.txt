@@ -1,0 +1,76 @@
+Podaż i czynniki poza cenowe wpływające na podaż.
+Podaż jest ilość dóbr i usług które zostały zaoferowane do sprzedaży  w danym czasie i po danej cenie.
+Po stronie podaży stoi producent który sprzedać jak najdrożej.
+
+cena				rozmiary
+za jedn				podaży
+
+1					20
+2					40
+3					60
+4					80
+5					100
+
+
+Obrazem graficznym podaży jest krzywa podaży S ktora jest funkcja rosnaca jeżeli na podaż ma wpływ tylko cena lub odbywa wdłuż krzywej podaży s z punktu a do b. Jeżeli na podaz mają wpływ inne czynniki niż cena nastepuje przesunie całej krzywej podazy s.
+Z s do s1 podaż rosnie s do s2 podaż maleje.
+
+Prawo podaży:
+Wraz ze wrostem cey na dane dobro podaż rośnie.
+Wraz ze spadkiem ceny podaż maleje przy założeniu ceteris paribus(tzn inne czynniki poza cenowe nie zmieniają sie).
+
+Czynniki pozacenowe wpływające na podaż
+a)Cena czynników produkcji(surowców materiałów)-gdy cena np materiału rośnie wtedy prodecent nie mogąć zmienic ceny produktu ogranicza podaż przesuniecie z s do s2
+b) Nowa technologia powoduje większą wydajność w tym samym czasie produkowanych będzie wiecej produktów przesuniecie z s do s1
+c)Nowy producent pojawienie sie nowego producenta zwiekkszy podaż przesuniecie z s do s1 
+d)podatki i subsydia-podatki traktowane sa jako dodatkowe obciazenia podaż sie zmniejszy z s do s2 
+subsydia-dopłata do każdej jednostki produkktu producent ma dopłacane w związku z tym podaż beddzie chciał zwieszyć.
+e) przewidywanie cen spekulacje cenowe jezeli producent przewiduje że w przyszłości będą obowiązywały wyższe ceny wtedy celowo ograniczza podaż by zwiekszyć ją w momencie obowiązywania nowych wyższych cen.Z S do s2 pozniej s do s1.
+
+ 
+Cena równowagi:
+Krzywa popytu ma nachylenie ujemne 
+Krzywa podaży ma nachyenie dodatnie.
+Po nałożeniu tych krzywych na jeden wspólnych układ współrzednych krzywe te przetną się w punkcie e tzw cena rwonowagi
+.
+Cena równowagi jest nazywana ceną oczyszczająca gdzyż oczyszcza rynek z nadwyżki popytu i podaży co oznacza że każdy kto chce kupić bez problemu kupi a kazdy kto chce sprzedać bez problemu sprzeda.Nie ma nadwyżki ani popytu ani podaży.
+Cena równowagi e nie jest stała constance zmieni się ww momencie zadziałania ktoregoś z czynników poza cenowych wpływających na podaż czy popyt.
+
+Przykład
+Na rynku pojawił się nowy gatune wedliny boczek rolowany ceny boczku ,ilośc oferowana przez producentów i nabywana przez konsumentów przedstawia tabela.
+
+				podaz S 			D
+Cena za kg 		ilosć 				ilosc nabywana
+				oferowana			w tys ton
+
+46				-					70
+48				-					60	
+50				10					50
+52              20					40	
+54				30					30	
+56				40					20
+58				50					10
+
+
+Z powyzszego wynika ze cena rownowagi wynosi 54 a ilosc rownowagi 30 tys ton
+
+Wrzesien rolnicy cha sie pozbyc tucznikow ceny zywca spadaja rolnicy oferuja
+
+w cenie 46 zloty 10 tys ton
+48 20
+50 30
+52 40
+54 50
+
+Cena równowagi spada z 54 do 53 ilosc rownowagi rosnie z 30 ton do 40.
+
+Pazdziernik na rynnku owocowo warzywnym widoczny jest tegoroczny urodzaj pod ciezarem tegorocznych odmian papryki uginaja sie stragany konsumenci niechetnie kupuja boczek.
+30 46
+20 48
+10 50
+
+Zadanie2 
+Cena równowagi spadłą z 52 do 48 
+Ilosc  rownowagi spadła z  40 do 20
+
+ 
