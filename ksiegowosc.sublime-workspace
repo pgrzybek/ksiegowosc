@@ -80,15 +80,6 @@
 	"buffers":
 	[
 		{
-			"file": "biuro rachunkowe9.txt",
-			"settings":
-			{
-				"buffer_size": 11754,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "rachunkowosc 15.txt",
 			"settings":
 			{
@@ -105,6 +96,16 @@
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "PK 1/04/2016"
+			}
+		},
+		{
+			"file": "rachunkowosc 17",
+			"settings":
+			{
+				"buffer_size": 218,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "Środki trwałe 1200000"
 			}
 		}
 	],
@@ -256,35 +257,6 @@
 			[
 				{
 					"buffer": 0,
-					"file": "biuro rachunkowe9.txt",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 11754,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7935,
-								7935
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 4323.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "rachunkowosc 15.txt",
 					"semi_transient": false,
 					"settings":
@@ -309,11 +281,11 @@
 						"translation.y": 51.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "biuro rachunkowe 16.txt",
 					"semi_transient": false,
 					"settings":
@@ -332,6 +304,35 @@
 						"settings":
 						{
 							"auto_name": "PK 1/04/2016",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "rachunkowosc 17",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Środki trwałe 1200000",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
