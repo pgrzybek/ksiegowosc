@@ -1,0 +1,75 @@
+Decyzje producenta
+
+Koszt alternatywny- to co się nie wybrało podczas podejmowania decyzji.
+Producentami dóbr i usług są różnego rodzaju przedsiębiorstwa .Przedsiębiorstwa te różnią się miedzy sobą wielkością formą własności celem działania ma on do dyspozycji odpowiednią ilośc czynnikow wytwórczych (ziemia praca kapitał)które są ograniczone i w związku z tym przedsiębiorca musi podejmować deycyzję:
+-jakie dobra i usługi produkować
+-jakiś czynników wytwórczych i w jakich i olościach
+-jaką wielkość produkcji
+-jaką cene ustalić
+Podejmujać te decyzje przedsiębiorca kieruje sie rachunkiem ekonomicznym chce osiągnąc jak najwyższy zysk.
+Aby osiągnąć zysk przedsiębiorca musi ponieśc koszt. Koszty ponosi się wykorzystując czynniki produkcji do których zaliczmy 
+czynniki produkcji(środki pracy ,czynniki pracy)oraz praca ludzka.Każdy z tych czynników ma swoją cene.
+Cena pomnżona przez ilość daje koszt tego czynnika.
+Koszty to wyceniona w pieniądzu wartość czynników wytwórczych zużytych w produkcji.
+Koszty możemy kwalifikować według różnych kryteriów z punktu widzenia analizy mikroekonomicznych koszty możemy podzielić an grupy stałe i zmienne.
+
+Całkowite i przeciętne, krańcowe nazwane marginalnymi.
+Koszty stałe(KS) to takie które są ponoszone niezależnie od rozmiarów produkcji nawet gdy wynosi 0.
+Koszty zmienne(KZ) to koszty które są zależne od wielkości produkcji zmieniają się wraz ze zmianą produkcji(surowce, płace).
+Suma kosztów stałych i zmiennych to tzw koszty całkowite.
+KS+KZ=KC
+
+KS          KZ             	KC
+-- = KSP    ---= KZP 		-- =KCP
+Q			Q				Q	
+
+Q-wielkość
+
+Koszty przeciętne odnoszą się do jednostki prdoukcji.
+Koszty krańcowy marginalny jest pochodną kosztu całkowitego i pokazuje o ile zminiają się koszty całkowite jeśli produkcja zwiekszy się o jednostkę.
+
+Firma posiada stała ilość kapitału i ziem w sposób ciągły zwiększa produkcje o jednostkę od 0 - 8 jednostek osiąga to poprzez wzrost zatrudnienia czynnikiem zmiennym jest praca.Uzupełnij poniższa tabele i wyznacz tzw minimum produkcji q i optimum techniczne produkcji firmy.
+
+
+			KS+KZ 			KS/q 	kz/q
+Q  KS 		KZ 		KC 		KSP 	KZP 	KCP 	KK
+0	1000	-		1000	-		-		-			
+1	1000	350		1350	1000	350		1350	350
+2	1000	560		1560	500		280		780		210
+3	1000	740		1740	333		247		580		180
+4	1000	1000	2000	250		250		500		260
+5	1000	1400	2400	200		280		480		400
+6	1000	2000	3000	167		333		500		600
+7	1000	2850	3850	143		407		550		850
+8	1000	3960	4960	125		495		620		1100
+
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+----------------------------------------------------
+
+Z wykresu i  tabeli można wyciagnąc nastepujące wnioski
+-Koszty całkowite rosną wraz ze wzrostem produkcji
+-koszty całkowite przecietne poczatkowo maleja  a pozniej zaczynaja rosnac
+-koszty stałe przecietne ciagle male nigdy nie beda równe 0.
+-Koszty zmienne przecietne
+-przy q =1 koszty przecietne równaja sie kosztom krańcowym nastepnie zaczynaja spadac do q =4 od 4 zaczynaja rosnac
+Produkcja mniej niz 4 sie nie opłaca.
+Koszt przecietny zmienny spada do poki jest mniejszy od krancowego.
+W punkcie przeciecia krzywa krancowych z kzp wyznacza minimum produkcji q( u nas 4).
+Punkt ten oznacz ze produkcja mniej niz 4 sie nie opłaca.
+Przecietne koszty całkowite początkowo się obnizają do 6.
+Koszty całkowite przecietne obnizaja sie sie wraz ze wrostem 
+OD pewneggo momentu q5 zaczynaja rosnac jedna z przyczyn wzostu kcp jest zwiekszenie ilosci zmeinnych czynnikow produkcji prowadzi to do tego ze czynniki stale sa przeciazone a produktywnosc zaczyna spadac.kk=kcp punk wyznacz tzw optimum techniczne produkcji u nas 5 i 
+
+Przychód całkowity przeciętny i krancowy.
