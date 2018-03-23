@@ -58,18 +58,3 @@ Q  KS 		KZ 		KC 		KSP 	KZP 	KCP 	KK
 |
 ----------------------------------------------------
 
-Z wykresu i  tabeli można wyciagnąc nastepujące wnioski
--Koszty całkowite rosną wraz ze wzrostem produkcji
--koszty całkowite przecietne poczatkowo maleja  a pozniej zaczynaja rosnac
--koszty stałe przecietne ciagle male nigdy nie beda równe 0.
--Koszty zmienne przecietne
--przy q =1 koszty przecietne równaja sie kosztom krańcowym nastepnie zaczynaja spadac do q =4 od 4 zaczynaja rosnac
-Produkcja mniej niz 4 sie nie opłaca.
-Koszt przecietny zmienny spada do poki jest mniejszy od krancowego.
-W punkcie przeciecia krzywa krancowych z kzp wyznacza minimum produkcji q( u nas 4).
-Punkt ten oznacz ze produkcja mniej niz 4 sie nie opłaca.
-Przecietne koszty całkowite początkowo się obnizają do 6.
-Koszty całkowite przecietne obnizaja sie sie wraz ze wrostem 
-OD pewneggo momentu q5 zaczynaja rosnac jedna z przyczyn wzostu kcp jest zwiekszenie ilosci zmeinnych czynnikow produkcji prowadzi to do tego ze czynniki stale sa przeciazone a produktywnosc zaczyna spadac.kk=kcp punk wyznacz tzw optimum techniczne produkcji u nas 5 i 
-
-Przychód całkowity przeciętny i krancowy.
